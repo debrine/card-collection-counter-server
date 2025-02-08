@@ -1,0 +1,15 @@
+services:
+  db:
+    image: postgres:16.3
+    restart: always
+    ports:
+      - '5432:5432'
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=ccc-postgres-password
+      - POSTGRES_DB=db
+    volumes:
+      - data_db:/var/lib/postgresql/data
+
+volumes:
+  data_db:
