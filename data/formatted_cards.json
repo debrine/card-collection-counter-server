@@ -1,0 +1,5555 @@
+[
+  {
+    "name": "Bulbasaur",
+    "set": "A1",
+    "set_number": "001",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998332/91c4f79b2b3b4206205bf69db8dd3d1e.png/show"
+  },
+  {
+    "name": "Ivysaur",
+    "set": "A1",
+    "set_number": "002",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/4006820/34e0ae3e3a08bf4586263f804fd42d06.png/show"
+  },
+  {
+    "name": "Venusaur",
+    "set": "A1",
+    "set_number": "003",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/4003548/e62b9303f29d5360acfef5c9a1d8c6d3.png/show"
+  },
+  {
+    "name": "Venusaur",
+    "set": "A1",
+    "set_number": "004",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/3995580/151d2c9455f83899618147d85881a75e.png/show"
+  },
+  {
+    "name": "Caterpie",
+    "set": "A1",
+    "set_number": "005",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Grass",
+    "url": "https://img.game8.co/4004054/ac3d9d05b0255de5e3e1d2e6f5609407.png/show"
+  },
+  {
+    "name": "Metapod",
+    "set": "A1",
+    "set_number": "006",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998380/4ce586957c9259bc8efb497a18d39279.png/show"
+  },
+  {
+    "name": "Butterfree",
+    "set": "A1",
+    "set_number": "007",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Grass",
+    "url": "https://img.game8.co/4004057/6ba461fb08292cbabe715b6ead54dfb9.png/show"
+  },
+  {
+    "name": "Weedle",
+    "set": "A1",
+    "set_number": "008",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998345/90945e1d343b71b9b81367632fc6419d.png/show"
+  },
+  {
+    "name": "Kakuna",
+    "set": "A1",
+    "set_number": "009",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998379/6580ab259f93a510e399d0cd4c6c82d1.png/show"
+  },
+  {
+    "name": "Beedrill",
+    "set": "A1",
+    "set_number": "010",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/4006294/0ee9cea4b4d3ce61396be4dd82cd9421.png/show"
+  },
+  {
+    "name": "Oddish",
+    "set": "A1",
+    "set_number": "011",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998375/428ea8dcd492a0df8d480a41bb5bc4d0.png/show"
+  },
+  {
+    "name": "Gloom",
+    "set": "A1",
+    "set_number": "012",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998364/e57c97310b27c6efac8506d7dd48921b.png/show"
+  },
+  {
+    "name": "Vileplume",
+    "set": "A1",
+    "set_number": "013",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/4004049/8f7c224f4dde3d6d6012b428d57a748c.png/show"
+  },
+  {
+    "name": "Paras",
+    "set": "A1",
+    "set_number": "014",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Grass",
+    "url": "https://img.game8.co/4006689/109616011b848f2a6858f7f34eafa06a.png/show"
+  },
+  {
+    "name": "Parasect",
+    "set": "A1",
+    "set_number": "015",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Grass",
+    "url": "https://img.game8.co/4004050/ddfd3df6e04bf4b005bd856ced03be18.png/show"
+  },
+  {
+    "name": "Venonat",
+    "set": "A1",
+    "set_number": "016",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/4003547/5e326a850486a8ee124abdbc89d4e4b0.png/show"
+  },
+  {
+    "name": "Venomoth",
+    "set": "A1",
+    "set_number": "017",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/4004056/277ad272b4379fa0fb3a423da11b729d.png/show"
+  },
+  {
+    "name": "Bellsprout",
+    "set": "A1",
+    "set_number": "018",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998361/0bb8f6247718d51699261c3b317fe1e2.png/show"
+  },
+  {
+    "name": "Weepinbell",
+    "set": "A1",
+    "set_number": "019",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/4003551/f3c89b9b13f35dd7a9f7826673294337.png/show"
+  },
+  {
+    "name": "Victreebel",
+    "set": "A1",
+    "set_number": "020",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998369/33445897d312b1f7e399bcd686aff8d8.png/show"
+  },
+  {
+    "name": "Exeggcute",
+    "set": "A1",
+    "set_number": "021",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998366/d833f142d39f949cb107c5ebde8d2cc8.png/show"
+  },
+  {
+    "name": "Exeggutor",
+    "set": "A1",
+    "set_number": "022",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/4006628/4e6a5342b585a516bc44f5b09eac3346.png/show"
+  },
+  {
+    "name": "Exeggutor",
+    "set": "A1",
+    "set_number": "023",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/4003424/51e6ed4a578f4c675ff5a1244baaf3d4.png/show"
+  },
+  {
+    "name": "Tangela",
+    "set": "A1",
+    "set_number": "024",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998378/c8049287f4ba1febaef374a272089479.png/show"
+  },
+  {
+    "name": "Scyther",
+    "set": "A1",
+    "set_number": "025",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/4003541/14fb34453ef5a5c42d9d1eb6757eefe3.png/show"
+  },
+  {
+    "name": "Pinsir",
+    "set": "A1",
+    "set_number": "026",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998396/85716016d8d17502c3856d4d2c2276aa.png/show"
+  },
+  {
+    "name": "Cottonee",
+    "set": "A1",
+    "set_number": "027",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998397/fb4a5971f55742782dc4f27c0ff15fa6.png/show"
+  },
+  {
+    "name": "Whimsicott",
+    "set": "A1",
+    "set_number": "028",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998398/8e97268b460993362631b70832e21c9d.png/show"
+  },
+  {
+    "name": "Petilil",
+    "set": "A1",
+    "set_number": "029",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998419/b455ac123c02f6c732de99735eaa7252.png/show"
+  },
+  {
+    "name": "Lilligant",
+    "set": "A1",
+    "set_number": "030",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998418/e81820ee6cc447493f392500522e5ee2.png/show"
+  },
+  {
+    "name": "Skiddo",
+    "set": "A1",
+    "set_number": "031",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/4006629/41624508d971975a45d85a2aacf96ce2.png/show"
+  },
+  {
+    "name": "Gogoat",
+    "set": "A1",
+    "set_number": "032",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998368/7f43ea90627358975107d9a4c8d10f35.png/show"
+  },
+  {
+    "name": "Charmander",
+    "set": "A1",
+    "set_number": "033",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998416/7111224e0f37fe89ebb846f71819eede.png/show"
+  },
+  {
+    "name": "Charmeleon",
+    "set": "A1",
+    "set_number": "034",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998417/4d026dbc3730454880ff65ce607f3a11.png/show"
+  },
+  {
+    "name": "Charizard",
+    "set": "A1",
+    "set_number": "035",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3995527/abacc583cb2b4f639c07d9642045695b.png/show"
+  },
+  {
+    "name": "Charizard",
+    "set": "A1",
+    "set_number": "036",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3995526/ac9d9361799eb484958ffd4873a7c091.png/show"
+  },
+  {
+    "name": "Vulpix",
+    "set": "A1",
+    "set_number": "037",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/4003549/d9d1247e0b2a309b5090972bcde080bd.png/show"
+  },
+  {
+    "name": "Ninetales",
+    "set": "A1",
+    "set_number": "038",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/4004066/5355e3320f79bd5ddbac28f0938d55a0.png/show"
+  },
+  {
+    "name": "Growlithe",
+    "set": "A1",
+    "set_number": "039",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Fire",
+    "url": "https://img.game8.co/4003508/3be46036163a4e381ae76d28fc5e0d22.png/show"
+  },
+  {
+    "name": "Arcanine",
+    "set": "A1",
+    "set_number": "040",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Fire",
+    "url": "https://img.game8.co/4003400/2f9c7d5d4ac15b6f3bc1cf7dd3a0573a.png/show"
+  },
+  {
+    "name": "Arcanine",
+    "set": "A1",
+    "set_number": "041",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Fire",
+    "url": "https://img.game8.co/4003399/4c2f076ef192173f119eb22a26b79c2b.png/show"
+  },
+  {
+    "name": "Ponyta",
+    "set": "A1",
+    "set_number": "042",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998340/042513122da40bdb24bbb4d9aa94ac8c.png/show"
+  },
+  {
+    "name": "Rapidash",
+    "set": "A1",
+    "set_number": "043",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998414/32d4d0de5496b62ebb673635adb0a6d3.png/show"
+  },
+  {
+    "name": "Magmar",
+    "set": "A1",
+    "set_number": "044",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3995548/76e7e3892ac03f7fed96427ae3471227.png/show"
+  },
+  {
+    "name": "Flareon",
+    "set": "A1",
+    "set_number": "045",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998420/23b100d03bec98c9c196c2f1aa8ec53f.png/show"
+  },
+  {
+    "name": "Moltres",
+    "set": "A1",
+    "set_number": "046",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998415/7172694cc4c05519129ba7d82daed78a.png/show"
+  },
+  {
+    "name": "Moltres",
+    "set": "A1",
+    "set_number": "047",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998342/21cb0fbf6aa4a791867a2c21ff9add20.png/show"
+  },
+  {
+    "name": "Heatmor",
+    "set": "A1",
+    "set_number": "048",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998429/5d2064be73c52dc19b28b55e63194dfc.png/show"
+  },
+  {
+    "name": "Salandit",
+    "set": "A1",
+    "set_number": "049",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998430/3ae9351100ff3a974da5daddbb884f0e.png/show"
+  },
+  {
+    "name": "Salazzle",
+    "set": "A1",
+    "set_number": "050",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998343/7bf6c55d29bbc68aeebcee10439ac8ff.png/show"
+  },
+  {
+    "name": "Sizzlipede",
+    "set": "A1",
+    "set_number": "051",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Fire",
+    "url": "https://img.game8.co/4009562/7ebb7e264e76b0147c832713a586d0da.png/show"
+  },
+  {
+    "name": "Centiskorch",
+    "set": "A1",
+    "set_number": "052",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998428/eb959a838599765d74ba341ce551e350.png/show"
+  },
+  {
+    "name": "Squirtle",
+    "set": "A1",
+    "set_number": "053",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4009613/ec28a480cd492b00e08358f1ab8825f1.png/show"
+  },
+  {
+    "name": "Wartortle",
+    "set": "A1",
+    "set_number": "054",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4003550/72e8caf9f66e3572d2b55a9f1e057b9c.png/show"
+  },
+  {
+    "name": "Blastoise",
+    "set": "A1",
+    "set_number": "055",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4003409/7285ece5bb82599b1a1d55caebc554d5.png/show"
+  },
+  {
+    "name": "Blastoise",
+    "set": "A1",
+    "set_number": "056",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4003405/fc6b1543ab68abd28e0d0b93666aa88e.png/show"
+  },
+  {
+    "name": "Psyduck",
+    "set": "A1",
+    "set_number": "057",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/3995566/cb61632690b48259222114d7a09df5b7.png/show"
+  },
+  {
+    "name": "Golduck",
+    "set": "A1",
+    "set_number": "058",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/3998459/a1e017b103081f39e8de3fdb8e9f8c69.png/show"
+  },
+  {
+    "name": "Poliwag",
+    "set": "A1",
+    "set_number": "059",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3998457/12c23d6f600b8e3347c0c832d5006f0b.png/show"
+  },
+  {
+    "name": "Poliwhirl",
+    "set": "A1",
+    "set_number": "060",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/4006826/de67ff4ff13cc5b0e22faadbeac6c7ef.png/show"
+  },
+  {
+    "name": "Poliwrath",
+    "set": "A1",
+    "set_number": "061",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/4006828/1bdf9ef3c3b5bf7609cf20f50e19e2d1.png/show"
+  },
+  {
+    "name": "Tentacool",
+    "set": "A1",
+    "set_number": "062",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/4006829/91eec5ba87f6078bd567471730f55656.png/show"
+  },
+  {
+    "name": "Tentacruel",
+    "set": "A1",
+    "set_number": "063",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/3998458/64cd10178f355800afc1b565915ee36c.png/show"
+  },
+  {
+    "name": "Seel",
+    "set": "A1",
+    "set_number": "064",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/3998460/76266868e10d2922b75a48765dfe62ba.png/show"
+  },
+  {
+    "name": "Dewgong",
+    "set": "A1",
+    "set_number": "065",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4009512/71527afe3e34a581f59655b6a377be1a.png/show"
+  },
+  {
+    "name": "Shellder",
+    "set": "A1",
+    "set_number": "066",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/3998339/fc01d6b7ff02466837ea9b1e5412aede.png/show"
+  },
+  {
+    "name": "Cloyster",
+    "set": "A1",
+    "set_number": "067",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/4004053/96b7d3754c42fe6602afa381d78d24d3.png/show"
+  },
+  {
+    "name": "Krabby",
+    "set": "A1",
+    "set_number": "068",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/3998350/ada9543996209297185fa2c341f937ee.png/show"
+  },
+  {
+    "name": "Kingler",
+    "set": "A1",
+    "set_number": "069",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/3998493/abf4e60f00e858bba141b09abad9d098.png/show"
+  },
+  {
+    "name": "Horsea",
+    "set": "A1",
+    "set_number": "070",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4004065/56b520f0a72cb4fc66af441ad836940c.png/show"
+  },
+  {
+    "name": "Seadra",
+    "set": "A1",
+    "set_number": "071",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4009510/380b6d5a2b0d812eefedb05276069db3.png/show"
+  },
+  {
+    "name": "Goldeen",
+    "set": "A1",
+    "set_number": "072",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4003507/e5b2bbebbc5581d528e4f1a04e769370.png/show"
+  },
+  {
+    "name": "Seaking",
+    "set": "A1",
+    "set_number": "073",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4003542/b6a9d04f2690db002130a8bb221eab89.png/show"
+  },
+  {
+    "name": "Staryu",
+    "set": "A1",
+    "set_number": "074",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3998492/54446b2a9146a6b8de5e58bebe938486.png/show"
+  },
+  {
+    "name": "Starmie",
+    "set": "A1",
+    "set_number": "075",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3998357/a0b9d92ae5fe5492c19eef25f9c16bda.png/show"
+  },
+  {
+    "name": "Starmie",
+    "set": "A1",
+    "set_number": "076",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/4003544/74f3705c0d05d68b6eafd78d909d6f7a.png/show"
+  },
+  {
+    "name": "Magikarp",
+    "set": "A1",
+    "set_number": "077",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/3995547/e0ed4a55a686a207fb3615b019eaeabc.png/show"
+  },
+  {
+    "name": "Gyarados",
+    "set": "A1",
+    "set_number": "078",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4003511/dfc29f4deb4bfd57aeeb421bebd7963e.png/show"
+  },
+  {
+    "name": "Lapras",
+    "set": "A1",
+    "set_number": "079",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/4004052/90ae53c4b2578c10e5fa54fc35d894f7.png/show"
+  },
+  {
+    "name": "Vaporeon",
+    "set": "A1",
+    "set_number": "080",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/3995579/edc2fc6a3a756ca04c64309406df20fb.png/show"
+  },
+  {
+    "name": "Omanyte",
+    "set": "A1",
+    "set_number": "081",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/3998490/2b471b4bb21496fa600bef6fd6e0a004.png/show"
+  },
+  {
+    "name": "Omastar",
+    "set": "A1",
+    "set_number": "082",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4003532/1207d27ea9377b4e478a05fbafe1104b.png/show"
+  },
+  {
+    "name": "Articuno",
+    "set": "A1",
+    "set_number": "083",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/4003401/85f08a35d3ec58bc3df44f6380963b3b.png/show"
+  },
+  {
+    "name": "Articuno",
+    "set": "A1",
+    "set_number": "084",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/4006293/5f81841bf27137231b254d4a5652f07f.png/show"
+  },
+  {
+    "name": "Ducklett",
+    "set": "A1",
+    "set_number": "085",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3998491/fc5844476c9169af97d64aafb4e6b02d.png/show"
+  },
+  {
+    "name": "Swanna",
+    "set": "A1",
+    "set_number": "086",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3998363/a0f26ca95898427319f71be7725fe221.png/show"
+  },
+  {
+    "name": "Froakie",
+    "set": "A1",
+    "set_number": "087",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3998356/3253d8301d0aa7580b60a42102b04671.png/show"
+  },
+  {
+    "name": "Frogadier",
+    "set": "A1",
+    "set_number": "088",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3998543/d70b39b79ed0b84fa5f80f821d912267.png/show"
+  },
+  {
+    "name": "Greninja",
+    "set": "A1",
+    "set_number": "089",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3995539/9195cfe2483b2f1213439fac00fc008c.png/show"
+  },
+  {
+    "name": "Pyukumuku",
+    "set": "A1",
+    "set_number": "090",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3998373/c3da27b1f8379fbeb1f7b0919dd39a98.png/show"
+  },
+  {
+    "name": "Bruxish",
+    "set": "A1",
+    "set_number": "091",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4003410/0a8ddfe9ea24fe467034d436821424b4.png/show"
+  },
+  {
+    "name": "Snom",
+    "set": "A1",
+    "set_number": "092",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/3998545/f3f9f31036b3689b13e7178938a95511.png/show"
+  },
+  {
+    "name": "Frosmoth",
+    "set": "A1",
+    "set_number": "093",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/3998546/3c05f23cab5b100c71d9822565f832cd.png/show"
+  },
+  {
+    "name": "Pikachu",
+    "set": "A1",
+    "set_number": "094",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/3995562/df4942ff2ae721eeebcd9a18aed6086d.png/show"
+  },
+  {
+    "name": "Raichu",
+    "set": "A1",
+    "set_number": "095",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4004063/afcbe335840deda435dba5d2ab2c8428.png/show"
+  },
+  {
+    "name": "Pikachu",
+    "set": "A1",
+    "set_number": "096",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/3995561/9ab8b09b4013f8a5eafb5cd08f8faf11.png/show"
+  },
+  {
+    "name": "Magnemite",
+    "set": "A1",
+    "set_number": "097",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/3998544/35e5ade3f5571739f7354394e96c997f.png/show"
+  },
+  {
+    "name": "Magneton",
+    "set": "A1",
+    "set_number": "098",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4006934/965f0329be2eab24d7476c9f91ddde38.png/show"
+  },
+  {
+    "name": "Voltorb",
+    "set": "A1",
+    "set_number": "099",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4004039/f9929457cd2eba7f509a4098421bd577.png/show"
+  },
+  {
+    "name": "Electrode",
+    "set": "A1",
+    "set_number": "100",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4004040/bf02e265efb4d9af8a1ed87d316d03d6.png/show"
+  },
+  {
+    "name": "Electabuzz",
+    "set": "A1",
+    "set_number": "101",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/3995534/2a00fe7be840d52441121ae1072a30e4.png/show"
+  },
+  {
+    "name": "Jolteon",
+    "set": "A1",
+    "set_number": "102",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4006822/ed62f5a9def93af10a971be762d7c72f.png/show"
+  },
+  {
+    "name": "Zapdos",
+    "set": "A1",
+    "set_number": "103",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4006832/42cbfcf6fa53511aa6383c0743577107.png/show"
+  },
+  {
+    "name": "Zapdos",
+    "set": "A1",
+    "set_number": "104",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4003554/f068b46b953ea963da1c8139cfb2c13f.png/show"
+  },
+  {
+    "name": "Blitzle",
+    "set": "A1",
+    "set_number": "105",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/3998587/15228aeea697296839a27955d00f0923.png/show"
+  },
+  {
+    "name": "Zebstrika",
+    "set": "A1",
+    "set_number": "106",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/3998338/51a7c6f568cf9f76dd82b06bbdb0f225.png/show"
+  },
+  {
+    "name": "Tynamo",
+    "set": "A1",
+    "set_number": "107",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4003545/1d1ce66d61a50dc2030e96dd152d1f14.png/show"
+  },
+  {
+    "name": "Eelektrik",
+    "set": "A1",
+    "set_number": "108",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4004061/5f845c24c20efc13a0074e5e71958472.png/show"
+  },
+  {
+    "name": "Eelektross",
+    "set": "A1",
+    "set_number": "109",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4003422/efc24d07c4a4cd932ae71bfd6845877f.png/show"
+  },
+  {
+    "name": "Helioptile",
+    "set": "A1",
+    "set_number": "110",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/3998588/0b4ddf3650dca6877055a40d082d63ef.png/show"
+  },
+  {
+    "name": "Heliolisk",
+    "set": "A1",
+    "set_number": "111",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/3998589/9ee41cdaf51a7e7711e47857024d2f2d.png/show"
+  },
+  {
+    "name": "Pincurchin",
+    "set": "A1",
+    "set_number": "112",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4009612/66b07b414ccc648238bc60ac3d579c6f.png/show"
+  },
+  {
+    "name": "Clefairy",
+    "set": "A1",
+    "set_number": "113",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003414/9dcb35d7fa5082b0b031341014d8d187.png/show"
+  },
+  {
+    "name": "Clefable",
+    "set": "A1",
+    "set_number": "114",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998609/b2821886651ed293692c8d9cda69b2b5.png/show"
+  },
+  {
+    "name": "Abra",
+    "set": "A1",
+    "set_number": "115",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003397/cb58f454e33712f7b5c7e38e14abee70.png/show"
+  },
+  {
+    "name": "Kadabra",
+    "set": "A1",
+    "set_number": "116",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998610/e67b77edfe99fadd96dcdcff683569be.png/show"
+  },
+  {
+    "name": "Alakazam",
+    "set": "A1",
+    "set_number": "117",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4006606/523ab122017000268224172795f85180.png/show"
+  },
+  {
+    "name": "Slowpoke",
+    "set": "A1",
+    "set_number": "118",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4009610/201934d9cc6bba93f69c6107bf319376.png/show"
+  },
+  {
+    "name": "Slowbro",
+    "set": "A1",
+    "set_number": "119",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998608/65feb355a7e4b4c46edb192ed68fab50.png/show"
+  },
+  {
+    "name": "Gastly",
+    "set": "A1",
+    "set_number": "120",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998607/dbb93af052f59df016605370ba7a25f7.png/show"
+  },
+  {
+    "name": "Haunter",
+    "set": "A1",
+    "set_number": "121",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3995541/262629502a9a145e53d062c261bdabad.png/show"
+  },
+  {
+    "name": "Gengar",
+    "set": "A1",
+    "set_number": "122",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003429/f120acaa874e2fc0d8a4826d031783db.png/show"
+  },
+  {
+    "name": "Gengar",
+    "set": "A1",
+    "set_number": "123",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003428/35f468fe22fdb7583f1fedd87cfba82c.png/show"
+  },
+  {
+    "name": "Drowzee",
+    "set": "A1",
+    "set_number": "124",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4004043/d7ed9c055fa250174c8a9a2d53f146e6.png/show"
+  },
+  {
+    "name": "Hypno",
+    "set": "A1",
+    "set_number": "125",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003512/f6adfd638f3b3ed7f2543cdc3f0cd64f.png/show"
+  },
+  {
+    "name": "Mr.",
+    "set": "A1",
+    "set_number": "126",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998933/f157c77e1774830de79d61befc2172f7.png/show"
+  },
+  {
+    "name": "Jynx",
+    "set": "A1",
+    "set_number": "127",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003514/51ed2e876172360fe15e001de05154d5.png/show"
+  },
+  {
+    "name": "Mewtwo",
+    "set": "A1",
+    "set_number": "128",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4006312/a888b167bfb0b129f0c62577d74f3830.png/show"
+  },
+  {
+    "name": "Mewtwo",
+    "set": "A1",
+    "set_number": "129",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998355/f14c91467792bea73eb38ea1b73c394d.png/show"
+  },
+  {
+    "name": "Ralts",
+    "set": "A1",
+    "set_number": "130",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4004059/9cf2938800ac5ed17bb4dbefb365461b.png/show"
+  },
+  {
+    "name": "Kirlia",
+    "set": "A1",
+    "set_number": "131",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4006688/ca66f4d7724ac72cf3fd5b22114403c4.png/show"
+  },
+  {
+    "name": "Gardevoir",
+    "set": "A1",
+    "set_number": "132",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3995538/8f0a707732a41daba04a4b1ffd8d9924.png/show"
+  },
+  {
+    "name": "Woobat",
+    "set": "A1",
+    "set_number": "133",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998654/140ea059e27793bccf20b65736701065.png/show"
+  },
+  {
+    "name": "Swoobat",
+    "set": "A1",
+    "set_number": "134",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998655/07c7ed7eba5487a38e2c8491fb5a52fc.png/show"
+  },
+  {
+    "name": "Golett",
+    "set": "A1",
+    "set_number": "135",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4004045/2fd8372c6aaa6014a931e7d369a00a71.png/show"
+  },
+  {
+    "name": "Golurk",
+    "set": "A1",
+    "set_number": "136",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998652/f676af9d5c04b1985428da54bfcd6523.png/show"
+  },
+  {
+    "name": "Sandshrew",
+    "set": "A1",
+    "set_number": "137",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998653/9cd5ea3c6b7bcfbed012db869c788d66.png/show"
+  },
+  {
+    "name": "Sandslash",
+    "set": "A1",
+    "set_number": "138",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998337/3c00a7468c8a83dbb62d061bc3837e76.png/show"
+  },
+  {
+    "name": "Diglett",
+    "set": "A1",
+    "set_number": "139",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4003416/cc387415208485e1cdbfc5f2229ad195.png/show"
+  },
+  {
+    "name": "Dugtrio",
+    "set": "A1",
+    "set_number": "140",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4006602/20668efc84e28401fe0525ee3938be74.png/show"
+  },
+  {
+    "name": "Mankey",
+    "set": "A1",
+    "set_number": "141",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4003518/3d568ebec7d930e269a876b272a89c3d.png/show"
+  },
+  {
+    "name": "Primeape",
+    "set": "A1",
+    "set_number": "142",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4003539/652b8c2e0e991bf7686eb8d33e8abfdf.png/show"
+  },
+  {
+    "name": "Machop",
+    "set": "A1",
+    "set_number": "143",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4006823/a5258bec9738adf95e20c5f2004f3295.png/show"
+  },
+  {
+    "name": "Machoke",
+    "set": "A1",
+    "set_number": "144",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998367/91aa9c0103b3c854a5889540016b06b4.png/show"
+  },
+  {
+    "name": "Machamp",
+    "set": "A1",
+    "set_number": "145",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4006935/6891fd5c942d46afed777d8dfbc27532.png/show"
+  },
+  {
+    "name": "Machamp",
+    "set": "A1",
+    "set_number": "146",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4003517/742fb22918369ddb455472957cdf3462.png/show"
+  },
+  {
+    "name": "Geodude",
+    "set": "A1",
+    "set_number": "147",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998371/392f079998fdfa85aa1d8aa6993dc77b.png/show"
+  },
+  {
+    "name": "Graveler",
+    "set": "A1",
+    "set_number": "148",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4004064/b7fe0f284816cd08978b1d02e65762e5.png/show"
+  },
+  {
+    "name": "Golem",
+    "set": "A1",
+    "set_number": "149",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4006818/129f5a8b18e4c38b62469ed4961570bb.png/show"
+  },
+  {
+    "name": "Onix",
+    "set": "A1",
+    "set_number": "150",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998961/a882e91232b19cd8d3de86e8f0b08b9d.png/show"
+  },
+  {
+    "name": "Cubone",
+    "set": "A1",
+    "set_number": "151",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3995528/14c693825b41c11e9a375b8aeae8a3fc.png/show"
+  },
+  {
+    "name": "Marowak",
+    "set": "A1",
+    "set_number": "152",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4006936/78aa9b9f6c3afbfc7f3a364c68ed425f.png/show"
+  },
+  {
+    "name": "Marowak",
+    "set": "A1",
+    "set_number": "153",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998336/89619844d0b1b7c0c61573adf4fb56c0.png/show"
+  },
+  {
+    "name": "Hitmonlee",
+    "set": "A1",
+    "set_number": "154",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4009611/c81a5efaba0ec70d68defa66c676b144.png/show"
+  },
+  {
+    "name": "Hitmonchan",
+    "set": "A1",
+    "set_number": "155",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998372/d89cdb8b06afb9380a0627fc2dc162cd.png/show"
+  },
+  {
+    "name": "Rhyhorn",
+    "set": "A1",
+    "set_number": "156",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998349/c1b8fd39fce0da3ae342fb130f098f68.png/show"
+  },
+  {
+    "name": "Rhydon",
+    "set": "A1",
+    "set_number": "157",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4006831/cf3cc442a7229012ace62b92e5ccfab8.png/show"
+  },
+  {
+    "name": "Kabuto",
+    "set": "A1",
+    "set_number": "158",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998959/d47b9c4995dd0c85e0ca90f15bd798b3.png/show"
+  },
+  {
+    "name": "Kabutops",
+    "set": "A1",
+    "set_number": "159",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998958/b625adc521236a0ae506a5ee5b6ea0ee.png/show"
+  },
+  {
+    "name": "Mienfoo",
+    "set": "A1",
+    "set_number": "160",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3995554/923feac2e8d16e4be2fde3ce671afd7c.png/show"
+  },
+  {
+    "name": "Mienshao",
+    "set": "A1",
+    "set_number": "161",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998957/dd421699db038c54b63aa24a0623d4d3.png/show"
+  },
+  {
+    "name": "Clobbopus",
+    "set": "A1",
+    "set_number": "162",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998360/44a15bfe556073283b8fe8c4cce4e6db.png/show"
+  },
+  {
+    "name": "Grapploct",
+    "set": "A1",
+    "set_number": "163",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Fighting",
+    "url": "https://img.game8.co/3998996/9b610f5a691406f3b3ecc538d82fd59a.png/show"
+  },
+  {
+    "name": "Ekans",
+    "set": "A1",
+    "set_number": "164",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Darkness",
+    "url": "https://img.game8.co/3998994/28c1cb93a5337e59f957c8e66d857391.png/show"
+  },
+  {
+    "name": "Arbok",
+    "set": "A1",
+    "set_number": "165",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Darkness",
+    "url": "https://img.game8.co/3998348/8b30a6669f1d16c249143ec1f98b581e.png/show"
+  },
+  {
+    "name": "Nidoran",
+    "set": "A1",
+    "set_number": "166",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4003527/1c1cfc36c52855f8c573771698b8d40e.png/show"
+  },
+  {
+    "name": "Nidorina",
+    "set": "A1",
+    "set_number": "167",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Darkness",
+    "url": "https://img.game8.co/3998995/3b3faf7b23b84f0d79c922bc9050b94b.png/show"
+  },
+  {
+    "name": "Nidoqueen",
+    "set": "A1",
+    "set_number": "168",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4003526/f134aa8ae2dedc30cac2a52cfb329a09.png/show"
+  },
+  {
+    "name": "Nidoran",
+    "set": "A1",
+    "set_number": "169",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4003529/134e97a2d6d2c075fa7190920210040d.png/show"
+  },
+  {
+    "name": "Nidorino",
+    "set": "A1",
+    "set_number": "170",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4003531/2d3114a26ae095fb998e4ebe30a56c2f.png/show"
+  },
+  {
+    "name": "Nidoking",
+    "set": "A1",
+    "set_number": "171",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Darkness",
+    "url": "https://img.game8.co/3998341/f11efea55a7ac2d2f76ed2e33ba4f154.png/show"
+  },
+  {
+    "name": "Zubat",
+    "set": "A1",
+    "set_number": "172",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Darkness",
+    "url": "https://img.game8.co/3998992/6e058f983a528a4780ee49f26650a41c.png/show"
+  },
+  {
+    "name": "Golbat",
+    "set": "A1",
+    "set_number": "173",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Darkness",
+    "url": "https://img.game8.co/3998993/dae8b0ddb240315d058f9dd03ddba4ea.png/show"
+  },
+  {
+    "name": "Grimer",
+    "set": "A1",
+    "set_number": "174",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4006819/f16b9a744bafa482dbc2919c3e16e92b.png/show"
+  },
+  {
+    "name": "Muk",
+    "set": "A1",
+    "set_number": "175",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4006607/2a9dbb46ee7397e46f1822a43cd273f7.png/show"
+  },
+  {
+    "name": "Koffing",
+    "set": "A1",
+    "set_number": "176",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Darkness",
+    "url": "https://img.game8.co/3998344/f9f63ebe9697671e81da2790e62d7833.png/show"
+  },
+  {
+    "name": "Weezing",
+    "set": "A1",
+    "set_number": "177",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4006321/3d637c863dc335eb1074e3057f6af701.png/show"
+  },
+  {
+    "name": "Mawile",
+    "set": "A1",
+    "set_number": "178",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Metal",
+    "url": "https://img.game8.co/3999024/d88e034430a8535db19a66f7aa325e81.png/show"
+  },
+  {
+    "name": "Pawniard",
+    "set": "A1",
+    "set_number": "179",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Metal",
+    "url": "https://img.game8.co/3999023/3b7eb0ffdb3105eae0662a50b2e33aa2.png/show"
+  },
+  {
+    "name": "Bisharp",
+    "set": "A1",
+    "set_number": "180",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Metal",
+    "url": "https://img.game8.co/3999025/ee0b3d044bd8994cd6bbd39f1c27613f.png/show"
+  },
+  {
+    "name": "Meltan",
+    "set": "A1",
+    "set_number": "181",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Metal",
+    "url": "https://img.game8.co/4009609/e5cd8c0ef45c681ac2fd0fe541668e0e.png/show"
+  },
+  {
+    "name": "Melmetal",
+    "set": "A1",
+    "set_number": "182",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Metal",
+    "url": "https://img.game8.co/4006824/9fa907a861b732c1633f0214bd53f9a8.png/show"
+  },
+  {
+    "name": "Dratini",
+    "set": "A1",
+    "set_number": "183",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Dragon",
+    "url": "https://img.game8.co/3998335/06a6057b224d2d3f3a15dbd309fb417f.png/show"
+  },
+  {
+    "name": "Dragonair",
+    "set": "A1",
+    "set_number": "184",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Dragon",
+    "url": "https://img.game8.co/3998333/2ca1b85a1456c467fff8cb87311a664f.png/show"
+  },
+  {
+    "name": "Dragonite",
+    "set": "A1",
+    "set_number": "185",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Dragon",
+    "url": "https://img.game8.co/4003421/af570ea43d94164a13b55142bc5b1fa1.png/show"
+  },
+  {
+    "name": "Pidgey",
+    "set": "A1",
+    "set_number": "186",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003534/fdc6097918ecbb22868016dca585436b.png/show"
+  },
+  {
+    "name": "Pidgeotto",
+    "set": "A1",
+    "set_number": "187",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003533/a3bfe78f284f53cd9f7a57c6ad68b1df.png/show"
+  },
+  {
+    "name": "Pidgeot",
+    "set": "A1",
+    "set_number": "188",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4006597/3d0ed642832267973161fd7fc47b9030.png/show"
+  },
+  {
+    "name": "Rattata",
+    "set": "A1",
+    "set_number": "189",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3998358/24efbd2c57e5649137de00885ac585bd.png/show"
+  },
+  {
+    "name": "Raticate",
+    "set": "A1",
+    "set_number": "190",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3998331/29e6dd0a73fe1c5a7e501d6feef5ec2d.png/show"
+  },
+  {
+    "name": "Spearow",
+    "set": "A1",
+    "set_number": "191",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3998365/89349bf1d4c0e933497b75eded7999bd.png/show"
+  },
+  {
+    "name": "Fearow",
+    "set": "A1",
+    "set_number": "192",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003426/646690e32240925f624e7381d62f6a6b.png/show"
+  },
+  {
+    "name": "Jigglypuff",
+    "set": "A1",
+    "set_number": "193",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3999116/163dec7f3e18d728bb575bc6ec8c321f.png/show"
+  },
+  {
+    "name": "Wigglytuff",
+    "set": "A1",
+    "set_number": "194",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3999117/6f1c22b3e7cee7a7b05a18b77aceae26.png/show"
+  },
+  {
+    "name": "Wigglytuff",
+    "set": "A1",
+    "set_number": "195",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4006323/10185c388a698bdcc9e96053a8883105.png/show"
+  },
+  {
+    "name": "Meowth",
+    "set": "A1",
+    "set_number": "196",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3999118/f0ce29d5b9e703e0c85183b1afa93713.png/show"
+  },
+  {
+    "name": "Persian",
+    "set": "A1",
+    "set_number": "197",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4009508/6b5fcd585a8e52a04dff37f54a319674.png/show"
+  },
+  {
+    "name": "Farfetch",
+    "set": "A1",
+    "set_number": "198",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4006687/fec322f353d485852448532daf965ed9.png/show"
+  },
+  {
+    "name": "Doduo",
+    "set": "A1",
+    "set_number": "199",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3998347/5f8c5ff7f95309a33889be335c4a3a5f.png/show"
+  },
+  {
+    "name": "Dodrio",
+    "set": "A1",
+    "set_number": "200",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003419/feccf1ec597240eea0633c9319bd861a.png/show"
+  },
+  {
+    "name": "Lickitung",
+    "set": "A1",
+    "set_number": "201",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4009513/16f6903244a08ad04f9eeba2ed6b9562.png/show"
+  },
+  {
+    "name": "Chansey",
+    "set": "A1",
+    "set_number": "202",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3995524/d4fe3c763412829163530d0487b66fa9.png/show"
+  },
+  {
+    "name": "Kangaskhan",
+    "set": "A1",
+    "set_number": "203",
+    "rarity": "◇◇◇",
+    "booster_pack": "Charizard",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4009509/39571d714f2f68445e9b226a2c5055bf.png/show"
+  },
+  {
+    "name": "Tauros",
+    "set": "A1",
+    "set_number": "204",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3998359/9c2495056e4d0350365eb0699277958a.png/show"
+  },
+  {
+    "name": "Ditto",
+    "set": "A1",
+    "set_number": "205",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003418/2a104f0b39f147c50bca1e3952ce2c58.png/show"
+  },
+  {
+    "name": "Eevee",
+    "set": "A1",
+    "set_number": "206",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3998362/7414dbc982903a3dd6cd529191995b9c.png/show"
+  },
+  {
+    "name": "Eevee",
+    "set": "A1",
+    "set_number": "207",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4006686/3a6c16b9882a68e59dcd0f1df302a4f8.png/show"
+  },
+  {
+    "name": "Eevee",
+    "set": "A1",
+    "set_number": "208",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003423/5a2cc74f2cffa9d2a797f3f3763ba5e3.png/show"
+  },
+  {
+    "name": "Porygon",
+    "set": "A1",
+    "set_number": "209",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003538/0f6b9055a3507b991fde9ad4c3d8b132.png/show"
+  },
+  {
+    "name": "Aerodactyl",
+    "set": "A1",
+    "set_number": "210",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4006291/ef10efd87d7c93de71dcbbc53b1a1071.png/show"
+  },
+  {
+    "name": "Snorlax",
+    "set": "A1",
+    "set_number": "211",
+    "rarity": "◇◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3995575/e6da282941f70b4987f0cdb44eef162c.png/show"
+  },
+  {
+    "name": "Minccino",
+    "set": "A1",
+    "set_number": "212",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003523/bde0c5085b4496c3b48b2e76e39ab9d7.png/show"
+  },
+  {
+    "name": "Cinccino",
+    "set": "A1",
+    "set_number": "213",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3998346/cfc0a80b75fc6b58456086578f6d925a.png/show"
+  },
+  {
+    "name": "Wooloo",
+    "set": "A1",
+    "set_number": "214",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3995583/0aa65f7e80849f5ff5075a7b4ceb4bcf.png/show"
+  },
+  {
+    "name": "Dubwool",
+    "set": "A1",
+    "set_number": "215",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3998330/756181084ff47181399e8a4f53547840.png/show"
+  },
+  {
+    "name": "Helix",
+    "set": "A1",
+    "set_number": "216",
+    "rarity": "◇",
+    "booster_pack": "Pikachu",
+    "type": "Item",
+    "url": "https://img.game8.co/4004042/6f1a71c0a509b36ccf7dd29bf8bfa967.png/show"
+  },
+  {
+    "name": "Dome",
+    "set": "A1",
+    "set_number": "217",
+    "rarity": "◇",
+    "booster_pack": "Charizard",
+    "type": "Item",
+    "url": "https://img.game8.co/4003420/3a48e38a9b18a8b2cbbe31cf2ab073ce.png/show"
+  },
+  {
+    "name": "Old",
+    "set": "A1",
+    "set_number": "218",
+    "rarity": "◇",
+    "booster_pack": "Mewtwo",
+    "type": "Item",
+    "url": "https://img.game8.co/4004046/7f7c477d6e42fd30ea75f71d6e26d51b.png/show"
+  },
+  {
+    "name": "Erika",
+    "set": "A1",
+    "set_number": "219",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Supporter",
+    "url": "https://img.game8.co/3995535/5bc1164c2b9a79f4c40f21a8975adbb3.png/show"
+  },
+  {
+    "name": "Misty",
+    "set": "A1",
+    "set_number": "220",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4000884/23ddf240cf20e7f45d028c39b070072e.png/show"
+  },
+  {
+    "name": "Blaine",
+    "set": "A1",
+    "set_number": "221",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4003402/360b3b8340f9bb16d72ccfcee2e77d48.png/show"
+  },
+  {
+    "name": "Koga",
+    "set": "A1",
+    "set_number": "222",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4006599/5e73bc4a027588078823269865149861.png/show"
+  },
+  {
+    "name": "Giovanni",
+    "set": "A1",
+    "set_number": "223",
+    "rarity": "◇◇",
+    "booster_pack": "Mewtwo",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4004047/6feadf37e41d8f0974ff9041ea4e5612.png/show"
+  },
+  {
+    "name": "Brock",
+    "set": "A1",
+    "set_number": "224",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Supporter",
+    "url": "https://img.game8.co/3995521/f1b8235c638e64025383439980233625.png/show"
+  },
+  {
+    "name": "Sabrina",
+    "set": "A1",
+    "set_number": "225",
+    "rarity": "◇◇",
+    "booster_pack": "Charizard",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4000883/c336f16fef841ed9fd954977a134344e.png/show"
+  },
+  {
+    "name": "Lt.",
+    "set": "A1",
+    "set_number": "226",
+    "rarity": "◇◇",
+    "booster_pack": "Pikachu",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4003515/ad83ced6f5c6f10d8a78640d1a1d497f.png/show"
+  },
+  {
+    "name": "Bulbasaur",
+    "set": "A1",
+    "set_number": "227",
+    "rarity": "☆",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/3998329/0e9fc1153da201124cf34cf3b2e19e85.png/show"
+  },
+  {
+    "name": "Gloom",
+    "set": "A1",
+    "set_number": "228",
+    "rarity": "☆",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/4003430/8f731654dfe6ac762a19e7c97d160106.png/show"
+  },
+  {
+    "name": "Pinsir",
+    "set": "A1",
+    "set_number": "229",
+    "rarity": "☆",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/4003536/36d7faa5f69430099603927d89739743.png/show"
+  },
+  {
+    "name": "Charmander",
+    "set": "A1",
+    "set_number": "230",
+    "rarity": "☆",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3998370/8d22416e59377d0a7b264435acd74d5c.png/show"
+  },
+  {
+    "name": "Rapidash",
+    "set": "A1",
+    "set_number": "231",
+    "rarity": "☆",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/4003540/39df1d269f5fc61d07c7be1cf36edf0c.png/show"
+  },
+  {
+    "name": "Squirtle",
+    "set": "A1",
+    "set_number": "232",
+    "rarity": "☆",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/3995576/fdbc69a9416a23429a33d8b7bddabecc.png/show"
+  },
+  {
+    "name": "Gyarados",
+    "set": "A1",
+    "set_number": "233",
+    "rarity": "☆",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4003510/43149edce21c416e7bfc25466f4a50d8.png/show"
+  },
+  {
+    "name": "Lapras",
+    "set": "A1",
+    "set_number": "234",
+    "rarity": "☆",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/3995546/5565a86b915faf786b67c13bce355030.png/show"
+  },
+  {
+    "name": "Electrode",
+    "set": "A1",
+    "set_number": "235",
+    "rarity": "☆",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4006299/164e655e9ef51c7e87b0088a8e11f76d.png/show"
+  },
+  {
+    "name": "Alakazam",
+    "set": "A1",
+    "set_number": "236",
+    "rarity": "☆",
+    "booster_pack": "Charizard",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003398/2781900ee1e5f71b5a4a7c3213c915f7.png/show"
+  },
+  {
+    "name": "Slowpoke",
+    "set": "A1",
+    "set_number": "237",
+    "rarity": "☆",
+    "booster_pack": "Charizard",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003543/5770fc7a4878760c0d2b322579f5db07.png/show"
+  },
+  {
+    "name": "Diglett",
+    "set": "A1",
+    "set_number": "238",
+    "rarity": "☆",
+    "booster_pack": "Pikachu",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4003415/948ac4c249bf3f8b2d6f7e6958c7a745.png/show"
+  },
+  {
+    "name": "Cubone",
+    "set": "A1",
+    "set_number": "239",
+    "rarity": "☆",
+    "booster_pack": "Mewtwo",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4006296/76cce8fcd59a1569404181bc2b401de6.png/show"
+  },
+  {
+    "name": "Nidoqueen",
+    "set": "A1",
+    "set_number": "240",
+    "rarity": "☆",
+    "booster_pack": "Pikachu",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4003525/cb4f6f4897b3974c41576d102b7ab4ca.png/show"
+  },
+  {
+    "name": "Nidoking",
+    "set": "A1",
+    "set_number": "241",
+    "rarity": "☆",
+    "booster_pack": "Pikachu",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4006825/6a1b3b097957a4a0637a1cafcc57c879.png/show"
+  },
+  {
+    "name": "Golbat",
+    "set": "A1",
+    "set_number": "242",
+    "rarity": "☆",
+    "booster_pack": "Mewtwo",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4003506/2a1cd3c9b1fdcbb900b0ce2886d1ec43.png/show"
+  },
+  {
+    "name": "Weezing",
+    "set": "A1",
+    "set_number": "243",
+    "rarity": "☆",
+    "booster_pack": "Mewtwo",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4003552/5626c04911ff7b0a31ca2da102a72b70.png/show"
+  },
+  {
+    "name": "Dragonite",
+    "set": "A1",
+    "set_number": "244",
+    "rarity": "☆",
+    "booster_pack": "Mewtwo",
+    "type": "Dragon",
+    "url": "https://img.game8.co/4006603/a78574d9760d8f46021f9f2044256e41.png/show"
+  },
+  {
+    "name": "Pidgeot",
+    "set": "A1",
+    "set_number": "245",
+    "rarity": "☆",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3995559/0eaf9c41df36639f10e40dc720e33c0a.png/show"
+  },
+  {
+    "name": "Meowth",
+    "set": "A1",
+    "set_number": "246",
+    "rarity": "☆",
+    "booster_pack": "Charizard",
+    "type": "Colorless",
+    "url": "https://img.game8.co/3995550/8168097e123bb4e439ff7e4258a4948d.png/show"
+  },
+  {
+    "name": "Ditto",
+    "set": "A1",
+    "set_number": "247",
+    "rarity": "☆",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003417/bf41eda948bc197b182a5164fe7b314b.png/show"
+  },
+  {
+    "name": "Eevee",
+    "set": "A1",
+    "set_number": "248",
+    "rarity": "☆",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4006298/a3f453ef2786fd0d620f98d4d6b6ba4b.png/show"
+  },
+  {
+    "name": "Porygon",
+    "set": "A1",
+    "set_number": "249",
+    "rarity": "☆",
+    "booster_pack": "Mewtwo",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003537/09592d9582fbb1e5cd78be13565c2a87.png/show"
+  },
+  {
+    "name": "Snorlax",
+    "set": "A1",
+    "set_number": "250",
+    "rarity": "☆",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4006318/f113d0e6bb96dd18cb6ed0094279c25d.png/show"
+  },
+  {
+    "name": "Venusaur",
+    "set": "A1",
+    "set_number": "251",
+    "rarity": "☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Grass",
+    "url": "https://img.game8.co/4006320/46d757ec19e48106d126fb983f6cc3a9.png/show"
+  },
+  {
+    "name": "Exeggutor",
+    "set": "A1",
+    "set_number": "252",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Grass",
+    "url": "https://img.game8.co/4006601/069a5adf7809808c40f191f981c87e2e.png/show"
+  },
+  {
+    "name": "Charizard",
+    "set": "A1",
+    "set_number": "253",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3995525/18e37c47affcd450ba9c796c8d61df82.png/show"
+  },
+  {
+    "name": "Arcanine",
+    "set": "A1",
+    "set_number": "254",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Fire",
+    "url": "https://img.game8.co/4006604/7c2541e061600e9c8906866c46e61f6d.png/show"
+  },
+  {
+    "name": "Moltres",
+    "set": "A1",
+    "set_number": "255",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/3995555/69a05c43883158f9223dcefcbeb836b8.png/show"
+  },
+  {
+    "name": "Blastoise",
+    "set": "A1",
+    "set_number": "256",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Water",
+    "url": "https://img.game8.co/4003404/74a6d7a3866978dfd12b6fbbdd3ec049.png/show"
+  },
+  {
+    "name": "Starmie",
+    "set": "A1",
+    "set_number": "257",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Water",
+    "url": "https://img.game8.co/4006319/658ece44b06ffe49270ed013a4d992f2.png/show"
+  },
+  {
+    "name": "Articuno",
+    "set": "A1",
+    "set_number": "258",
+    "rarity": "☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/4006292/f18219733f9466a19ab2b3c21b4df5dd.png/show"
+  },
+  {
+    "name": "Pikachu",
+    "set": "A1",
+    "set_number": "259",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4006317/d9eccaae10cd1e6a6e42cdf775d4df3b.png/show"
+  },
+  {
+    "name": "Zapdos",
+    "set": "A1",
+    "set_number": "260",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4006324/72931228894858cb2a0f917c118b8b10.png/show"
+  },
+  {
+    "name": "Gengar",
+    "set": "A1",
+    "set_number": "261",
+    "rarity": "☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4009511/4c11bbf1d9de86d55e5364cb86886b0d.png/show"
+  },
+  {
+    "name": "Mewtwo",
+    "set": "A1",
+    "set_number": "262",
+    "rarity": "☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4006310/fba1500128ca575a4a98cfbd1c54c694.png/show"
+  },
+  {
+    "name": "Machamp",
+    "set": "A1",
+    "set_number": "263",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4006307/5d4c7ea056aa8522b2da330627267a25.png/show"
+  },
+  {
+    "name": "Marowak",
+    "set": "A1",
+    "set_number": "264",
+    "rarity": "☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4003519/857dcd5288999d90ec51356bcde97a35.png/show"
+  },
+  {
+    "name": "Wigglytuff",
+    "set": "A1",
+    "set_number": "265",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4006322/85193b4d376896a51e19d41f633bbb3c.png/show"
+  },
+  {
+    "name": "Erika",
+    "set": "A1",
+    "set_number": "266",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4006301/e377eb2d11dc67d3a56e5d8266ee7dbc.png/show"
+  },
+  {
+    "name": "Misty",
+    "set": "A1",
+    "set_number": "267",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4006313/883b68da489048a408c4b042d3e9f3a7.png/show"
+  },
+  {
+    "name": "Blaine",
+    "set": "A1",
+    "set_number": "268",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4009514/a2735a2f51c75b7de641e1ffc015093f.png/show"
+  },
+  {
+    "name": "Koga",
+    "set": "A1",
+    "set_number": "269",
+    "rarity": "☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4004062/0c2bbaf7e3e34c46d1593b6780108de9.png/show"
+  },
+  {
+    "name": "Giovanni",
+    "set": "A1",
+    "set_number": "270",
+    "rarity": "☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4006600/181c9ad102c86d25cd7fc4110324e035.png/show"
+  },
+  {
+    "name": "Brock",
+    "set": "A1",
+    "set_number": "271",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4006295/45b892bab21569de57759d90f85a6368.png/show"
+  },
+  {
+    "name": "Sabrina",
+    "set": "A1",
+    "set_number": "272",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Supporter",
+    "url": "https://img.game8.co/3995570/5363412994d6d586a28f14002fd2919d.png/show"
+  },
+  {
+    "name": "Lt.",
+    "set": "A1",
+    "set_number": "273",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4006305/8742024b4fa2f2d51cde1662b0207935.png/show"
+  },
+  {
+    "name": "Moltres",
+    "set": "A1",
+    "set_number": "274",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/4006314/4b2780b9486d31b4ba3e676f1efdddfc.png/show"
+  },
+  {
+    "name": "Articuno",
+    "set": "A1",
+    "set_number": "275",
+    "rarity": "☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Water",
+    "url": "https://img.game8.co/3995518/1a7462d806bf260c2e9d310c79337d86.png/show"
+  },
+  {
+    "name": "Zapdos",
+    "set": "A1",
+    "set_number": "276",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4006595/b23afefb20009f237f67574c1df4e15e.png/show"
+  },
+  {
+    "name": "Gengar",
+    "set": "A1",
+    "set_number": "277",
+    "rarity": "☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4006304/6d99f4800a08971b09a53537d16b3a51.png/show"
+  },
+  {
+    "name": "Machamp",
+    "set": "A1",
+    "set_number": "278",
+    "rarity": "☆☆",
+    "booster_pack": "Charizard",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4006309/6bf549fc24608f9a0b9ceab9e5a415a0.png/show"
+  },
+  {
+    "name": "Wigglytuff",
+    "set": "A1",
+    "set_number": "279",
+    "rarity": "☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4003553/29add5661f1e274510ee800fc43dead8.png/show"
+  },
+  {
+    "name": "Charizard",
+    "set": "A1",
+    "set_number": "280",
+    "rarity": "☆☆☆",
+    "booster_pack": "Charizard",
+    "type": "Fire",
+    "url": "https://img.game8.co/4003413/3e370eaf341ab999848cf8897857a14a.png/show"
+  },
+  {
+    "name": "Pikachu",
+    "set": "A1",
+    "set_number": "281",
+    "rarity": "☆☆☆",
+    "booster_pack": "Pikachu",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4003535/a81d2d3359e2826570e8d56b0bdc1261.png/show"
+  },
+  {
+    "name": "Mewtwo",
+    "set": "A1",
+    "set_number": "282",
+    "rarity": "☆☆☆",
+    "booster_pack": "Mewtwo",
+    "type": "Psychic",
+    "url": "https://img.game8.co/3998374/e2c23965071d31ddee3b44f139828f01.png/show"
+  },
+  {
+    "name": "Mew",
+    "set": "A1",
+    "set_number": "283",
+    "rarity": "☆☆☆",
+    "booster_pack": "Special",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003521/d4c306cd6e9a7b1b7e329a0b222dcb4c.png/show"
+  },
+  {
+    "name": "Charizard",
+    "set": "A1",
+    "set_number": "284",
+    "rarity": "♛",
+    "booster_pack": "Any",
+    "type": "Fire",
+    "url": "https://img.game8.co/4003412/b421fe6ecd5abf05495d9bc913dac38c.png/show"
+  },
+  {
+    "name": "Pikachu",
+    "set": "A1",
+    "set_number": "285",
+    "rarity": "♛",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4006316/ddc5959a5f198f650fc5cd02977cc92c.png/show"
+  },
+  {
+    "name": "Mewtwo",
+    "set": "A1",
+    "set_number": "286",
+    "rarity": "♛",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4003522/31cffe0b0a2dccac69c03c84adc1003e.png/show"
+  },
+  {
+    "name": "Exeggcute",
+    "set": "A1a",
+    "set_number": "001",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069624/d4b6fcce5983d28beec6928d031f6461.png/show"
+  },
+  {
+    "name": "Exeggutor",
+    "set": "A1a",
+    "set_number": "002",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069631/f25e6a7d32771f1be33a319266321f9a.png/show"
+  },
+  {
+    "name": "Celebi",
+    "set": "A1a",
+    "set_number": "003",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069626/1a61e1ae8d9edb247a1b5fa0ea976f6c.png/show"
+  },
+  {
+    "name": "Snivy",
+    "set": "A1a",
+    "set_number": "004",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069625/16b43fdbf3e9fb1650f421eb392b1122.png/show"
+  },
+  {
+    "name": "Servine",
+    "set": "A1a",
+    "set_number": "005",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069629/1b28c3e450b7ac3dcdfb679b39141450.png/show"
+  },
+  {
+    "name": "Serperior",
+    "set": "A1a",
+    "set_number": "006",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069632/df7c811418b9ba57154f3684d31513d3.png/show"
+  },
+  {
+    "name": "Morelull",
+    "set": "A1a",
+    "set_number": "007",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069630/7ab2a765b77a8738436b98a13263c272.png/show"
+  },
+  {
+    "name": "Shiinotic",
+    "set": "A1a",
+    "set_number": "008",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069633/3b173851e8390912a190aa27f2a0df59.png/show"
+  },
+  {
+    "name": "Dhelmise",
+    "set": "A1a",
+    "set_number": "009",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069628/ad401e55dfb46f660f25666f958c2cac.png/show"
+  },
+  {
+    "name": "Ponyta",
+    "set": "A1a",
+    "set_number": "010",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Fire",
+    "url": "https://img.game8.co/4069627/7f7829b68c9a4aef1c7be48e3d3e9295.png/show"
+  },
+  {
+    "name": "Rapidash",
+    "set": "A1a",
+    "set_number": "011",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Fire",
+    "url": "https://img.game8.co/4069680/cecef3c13221406fd18c9d86cac71f1d.png/show"
+  },
+  {
+    "name": "Magmar",
+    "set": "A1a",
+    "set_number": "012",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Fire",
+    "url": "https://img.game8.co/4069674/07fe08e8d180c7d76af012b2beb60807.png/show"
+  },
+  {
+    "name": "Larvesta",
+    "set": "A1a",
+    "set_number": "013",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Fire",
+    "url": "https://img.game8.co/4069679/8519e1c1b40ade8fa19d13999142d386.png/show"
+  },
+  {
+    "name": "Volcarona",
+    "set": "A1a",
+    "set_number": "014",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Fire",
+    "url": "https://img.game8.co/4069676/c51f6b0e1cda1d841030620b126371ae.png/show"
+  },
+  {
+    "name": "Salandit",
+    "set": "A1a",
+    "set_number": "015",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Fire",
+    "url": "https://img.game8.co/4069672/5794e9475b35ad7a72eacf1e45bb5808.png/show"
+  },
+  {
+    "name": "Salazzle",
+    "set": "A1a",
+    "set_number": "016",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Fire",
+    "url": "https://img.game8.co/4069681/e791a5d2218a431cc7df4502feb93f92.png/show"
+  },
+  {
+    "name": "Magikarp",
+    "set": "A1a",
+    "set_number": "017",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4069677/f83c3786cd0768d9148179224121bcd6.png/show"
+  },
+  {
+    "name": "Gyarados",
+    "set": "A1a",
+    "set_number": "018",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4069673/21e784147510dc8332a3adee6ae784db.png/show"
+  },
+  {
+    "name": "Vaporeon",
+    "set": "A1a",
+    "set_number": "019",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4069678/f97bb868fb8960da3afae41af4e2736f.png/show"
+  },
+  {
+    "name": "Finneon",
+    "set": "A1a",
+    "set_number": "020",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4069675/833e881ca8b812028ead868a90c68c78.png/show"
+  },
+  {
+    "name": "Lumineon",
+    "set": "A1a",
+    "set_number": "021",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4069737/9ab4db9b303e1339887ccfc9932b9ab1.png/show"
+  },
+  {
+    "name": "Chewtle",
+    "set": "A1a",
+    "set_number": "022",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4069735/06eced65e2f2eb0697fde99854880040.png/show"
+  },
+  {
+    "name": "Drednaw",
+    "set": "A1a",
+    "set_number": "023",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4069734/eb88e0773f745880824fcc020acca95d.png/show"
+  },
+  {
+    "name": "Cramorant",
+    "set": "A1a",
+    "set_number": "024",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4069733/cc079a301f57e1301419e33463e5fae4.png/show"
+  },
+  {
+    "name": "Pikachu",
+    "set": "A1a",
+    "set_number": "025",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4069736/93003e2354879c4d8bc573f156f50b5e.png/show"
+  },
+  {
+    "name": "Raichu",
+    "set": "A1a",
+    "set_number": "026",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4069764/6e89ef3ec2d9e02bc1ada26d302c2da1.png/show"
+  },
+  {
+    "name": "Electabuzz",
+    "set": "A1a",
+    "set_number": "027",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4069768/d0a1af4b2d47e2534fc457c7b753abd1.png/show"
+  },
+  {
+    "name": "Joltik",
+    "set": "A1a",
+    "set_number": "028",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4069765/df96a106ffe441423e709e6d839c3c0f.png/show"
+  },
+  {
+    "name": "Galvantula",
+    "set": "A1a",
+    "set_number": "029",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4069767/7167ab9d8c0e87b627404a56fd936bb2.png/show"
+  },
+  {
+    "name": "Dedenne",
+    "set": "A1a",
+    "set_number": "030",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4069766/b0cf9400dd6d0df3cc7dcf4fc973db2e.png/show"
+  },
+  {
+    "name": "Mew",
+    "set": "A1a",
+    "set_number": "031",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069819/a87fa79aa572125e2c2c88da32044d06.png/show"
+  },
+  {
+    "name": "Mew",
+    "set": "A1a",
+    "set_number": "032",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069825/dcfa028865261c52da52724b22001a33.png/show"
+  },
+  {
+    "name": "Sigilyph",
+    "set": "A1a",
+    "set_number": "033",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069821/1dd29ea6a9108417ce524817c23a4af4.png/show"
+  },
+  {
+    "name": "Elgyem",
+    "set": "A1a",
+    "set_number": "034",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069823/54f6af5544a7713951058e80759b792f.png/show"
+  },
+  {
+    "name": "Beheeyem",
+    "set": "A1a",
+    "set_number": "035",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069826/35a0c7a7a1560e82690c89fd12c67a0c.png/show"
+  },
+  {
+    "name": "Flabebe",
+    "set": "A1a",
+    "set_number": "036",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069822/490b01b37d5342700f26d17edcc9b559.png/show"
+  },
+  {
+    "name": "Floette",
+    "set": "A1a",
+    "set_number": "037",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069828/f8d8bb848457a004746a0d826749ad9d.png/show"
+  },
+  {
+    "name": "Florges",
+    "set": "A1a",
+    "set_number": "038",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069824/1123a812bd9d29221335726456b3351c.png/show"
+  },
+  {
+    "name": "Swirlix",
+    "set": "A1a",
+    "set_number": "039",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069820/a04c1239557efa8741776bf3a857ffc0.png/show"
+  },
+  {
+    "name": "Slurpuff",
+    "set": "A1a",
+    "set_number": "040",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4069827/73031a5fa11b10c35cbefedb317bb3ef.png/show"
+  },
+  {
+    "name": "Mankey",
+    "set": "A1a",
+    "set_number": "041",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4069923/7047bda5ed25b37bc3c90095d7459803.png/show"
+  },
+  {
+    "name": "Primeape",
+    "set": "A1a",
+    "set_number": "042",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4069910/b58fe6858ae8d2b5bac2f4b99a305790.png/show"
+  },
+  {
+    "name": "Geodude",
+    "set": "A1a",
+    "set_number": "043",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4069915/82d8799116d012616eb4cd97b77d37a1.png/show"
+  },
+  {
+    "name": "Graveler",
+    "set": "A1a",
+    "set_number": "044",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4069921/011f24c5b57689a636ef0f27066d3d2c.png/show"
+  },
+  {
+    "name": "Golem",
+    "set": "A1a",
+    "set_number": "045",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4069913/1fc58390aaaf6ee7c44d0715a27ca4ce.png/show"
+  },
+  {
+    "name": "Aerodactyl",
+    "set": "A1a",
+    "set_number": "046",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4069926/71a88bad85fb49b3e9982bbc9968025d.png/show"
+  },
+  {
+    "name": "Marshadow",
+    "set": "A1a",
+    "set_number": "047",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4069689/801873e6da16c0c4ad2aa97d460368ce.png/show"
+  },
+  {
+    "name": "Stonjourner",
+    "set": "A1a",
+    "set_number": "048",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4069912/5c86659c2218dabc0894569c99c21ea4.png/show"
+  },
+  {
+    "name": "Koffing",
+    "set": "A1a",
+    "set_number": "049",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4069909/17b87499adc6af66b41b883233fb8632.png/show"
+  },
+  {
+    "name": "Weezing",
+    "set": "A1a",
+    "set_number": "050",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4069908/c9044b94595984a558d105abfc7f58fe.png/show"
+  },
+  {
+    "name": "Purrloin",
+    "set": "A1a",
+    "set_number": "051",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4069914/7f50e23b63f2217243882d6e21864d23.png/show"
+  },
+  {
+    "name": "Liepard",
+    "set": "A1a",
+    "set_number": "052",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4069925/5ce78f3b2e8a6f4da54f250c33d75884.png/show"
+  },
+  {
+    "name": "Venipede",
+    "set": "A1a",
+    "set_number": "053",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4069924/2990319ea41dd7214fd382351be89f40.png/show"
+  },
+  {
+    "name": "Whirlipede",
+    "set": "A1a",
+    "set_number": "054",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4069917/21aaf70d689137776b6433bc94df3722.png/show"
+  },
+  {
+    "name": "Scolipede",
+    "set": "A1a",
+    "set_number": "055",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4069922/f4e0c14d70e80f53bc6a3d5b6f7d4b6d.png/show"
+  },
+  {
+    "name": "Druddigon",
+    "set": "A1a",
+    "set_number": "056",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Dragon",
+    "url": "https://img.game8.co/4069920/3fd848329d1fb1312f01c7582fcfd53c.png/show"
+  },
+  {
+    "name": "Pidgey",
+    "set": "A1a",
+    "set_number": "057",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4069918/0f3c25ac64e3a2c7f0708bd981785870.png/show"
+  },
+  {
+    "name": "Pidgeotto",
+    "set": "A1a",
+    "set_number": "058",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4069919/2bf62480a5d0672c43517f7c12dccf5d.png/show"
+  },
+  {
+    "name": "Pidgeot",
+    "set": "A1a",
+    "set_number": "059",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4069916/11b0332ced651e2601fa82e7e6d61d00.png/show"
+  },
+  {
+    "name": "Tauros",
+    "set": "A1a",
+    "set_number": "060",
+    "rarity": "◇◇◇",
+    "booster_pack": "Mew",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4069911/0dad0cdd65ace34a890c849519724c3f.png/show"
+  },
+  {
+    "name": "Eevee",
+    "set": "A1a",
+    "set_number": "061",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4069949/06afeb019e6de62201ed40d08ea62636.png/show"
+  },
+  {
+    "name": "Chatot",
+    "set": "A1a",
+    "set_number": "062",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4069951/82223142bb7875af4a34412c7a28078b.png/show"
+  },
+  {
+    "name": "Old",
+    "set": "A1a",
+    "set_number": "063",
+    "rarity": "◇",
+    "booster_pack": "Mew",
+    "type": "Item",
+    "url": "https://img.game8.co/4004046/7f7c477d6e42fd30ea75f71d6e26d51b.png/show"
+  },
+  {
+    "name": "Pokemon",
+    "set": "A1a",
+    "set_number": "064",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Item",
+    "url": "https://img.game8.co/4069948/4860009590f76ef59eed15814ec393db.png/show"
+  },
+  {
+    "name": "Mythical",
+    "set": "A1a",
+    "set_number": "065",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Item",
+    "url": "https://img.game8.co/4069950/f310ca7133d07193b8bedf27ac247f14.png/show"
+  },
+  {
+    "name": "Budding",
+    "set": "A1a",
+    "set_number": "066",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4069952/01abdab83ac4cbcb02f354987d4465d0.png/show"
+  },
+  {
+    "name": "Blue",
+    "set": "A1a",
+    "set_number": "067",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4069954/3587b1c03e9f3f08e3f71a94fa0b87a8.png/show"
+  },
+  {
+    "name": "Leaf",
+    "set": "A1a",
+    "set_number": "068",
+    "rarity": "◇◇",
+    "booster_pack": "Mew",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4069953/29125970619597d71cf68dd51a100fcd.png/show"
+  },
+  {
+    "name": "Exeggutor",
+    "set": "A1a",
+    "set_number": "069",
+    "rarity": "☆",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069955/adb25dbcece1c8a2d5dd269cc873d9fd.png/show"
+  },
+  {
+    "name": "Serperior",
+    "set": "A1a",
+    "set_number": "070",
+    "rarity": "☆",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4069690/fc7d6e7b3ba3dc08985d6590ffe517b6.png/show"
+  },
+  {
+    "name": "Salandit",
+    "set": "A1a",
+    "set_number": "071",
+    "rarity": "☆",
+    "booster_pack": "Mew",
+    "type": "Fire",
+    "url": "https://img.game8.co/4070025/9fed31adf86a4f88c2bef8e1af47a301.png/show"
+  },
+  {
+    "name": "Vaporeon",
+    "set": "A1a",
+    "set_number": "072",
+    "rarity": "☆",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4070027/c08de1e2b4851cd19bb3f81f7be52980.png/show"
+  },
+  {
+    "name": "Dedenne",
+    "set": "A1a",
+    "set_number": "073",
+    "rarity": "☆",
+    "booster_pack": "Mew",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4069688/ee346a491d7b3b9ef01c742b8e02e633.png/show"
+  },
+  {
+    "name": "Marshadow",
+    "set": "A1a",
+    "set_number": "074",
+    "rarity": "☆",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4070034/ba321b5b3b504ff4b15e5df43a03134a.png/show"
+  },
+  {
+    "name": "Celebi",
+    "set": "A1a",
+    "set_number": "075",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4070035/f112ad84f59bc92fef5ec628b76e5ca8.png/show"
+  },
+  {
+    "name": "Gyarados",
+    "set": "A1a",
+    "set_number": "076",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Water",
+    "url": "https://img.game8.co/4070029/e29f97f7cba8bc42f9f21d74a21716a1.png/show"
+  },
+  {
+    "name": "Mew",
+    "set": "A1a",
+    "set_number": "077",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4070031/b2dd5b8053980a0e08cd1bc8e7937909.png/show"
+  },
+  {
+    "name": "Aerodactyl",
+    "set": "A1a",
+    "set_number": "078",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4070032/534a6155ef7f5e6dc84461d97ac0cb93.png/show"
+  },
+  {
+    "name": "Pidgeot",
+    "set": "A1a",
+    "set_number": "079",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4069691/8b402d12fb07dc8e7e20ad9b43e913b1.png/show"
+  },
+  {
+    "name": "Budding",
+    "set": "A1a",
+    "set_number": "080",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4070036/017579c61bbe589c3e42afcd249be873.png/show"
+  },
+  {
+    "name": "Blue",
+    "set": "A1a",
+    "set_number": "081",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4070033/0b25786513c8f9513a4e5429e550f5be.png/show"
+  },
+  {
+    "name": "Leaf",
+    "set": "A1a",
+    "set_number": "082",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4070024/fb431690e70d55df20af595b16d795ad.png/show"
+  },
+  {
+    "name": "Mew",
+    "set": "A1a",
+    "set_number": "083",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4070028/aa9321a170d1a25bfadf2cdb3eeb1670.png/show"
+  },
+  {
+    "name": "Aerodactyl",
+    "set": "A1a",
+    "set_number": "084",
+    "rarity": "☆☆",
+    "booster_pack": "Mew",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4070037/885ac9843a42334177c4d8411d4e1f85.png/show"
+  },
+  {
+    "name": "Celebi",
+    "set": "A1a",
+    "set_number": "085",
+    "rarity": "☆☆☆",
+    "booster_pack": "Mew",
+    "type": "Grass",
+    "url": "https://img.game8.co/4070030/d0844fbaecfa521730b5c24cdc6691f3.png/show"
+  },
+  {
+    "name": "Mew",
+    "set": "A1a",
+    "set_number": "086",
+    "rarity": "♛",
+    "booster_pack": "Mew",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4070026/d9211064c06728cbdbfc2a6b06e75d6b.png/show"
+  },
+  {
+    "name": "Oddish",
+    "set": "A2",
+    "set_number": "001",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093086/441a7888acceba424ca0fe8125d4316b.png/show"
+  },
+  {
+    "name": "Gloom",
+    "set": "A2",
+    "set_number": "002",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093089/9d63eab2d0a7a3b25cc96bb1548dcc0f.png/show"
+  },
+  {
+    "name": "Bellossom",
+    "set": "A2",
+    "set_number": "003",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093091/03512aa89710d5cc1c2c91643c0eb5b5.png/show"
+  },
+  {
+    "name": "Tangela",
+    "set": "A2",
+    "set_number": "004",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093085/efd5f2266a60d644249d02935fd7cb3c.png/show"
+  },
+  {
+    "name": "Tangrowth",
+    "set": "A2",
+    "set_number": "005",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093083/ec86c59047c59c4d5a4d640d750641fc.png/show"
+  },
+  {
+    "name": "Yanma",
+    "set": "A2",
+    "set_number": "006",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093084/0efcc63be400b5777a35c7d8d4871160.png/show"
+  },
+  {
+    "name": "Yanmega",
+    "set": "A2",
+    "set_number": "007",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093088/30bdff742ef2b19412f58dd0aeaaae71.png/show"
+  },
+  {
+    "name": "Roselia",
+    "set": "A2",
+    "set_number": "008",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093090/1b489ce361e21807403cb27ae6d54918.png/show"
+  },
+  {
+    "name": "Roserade",
+    "set": "A2",
+    "set_number": "009",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093087/c0c56d6982b218ca66fa368f822da730.png/show"
+  },
+  {
+    "name": "Turtwig",
+    "set": "A2",
+    "set_number": "010",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Grass",
+    "url": "https://img.game8.co/4088362/d0cda7a77936725eb29ca20ba9deb066.png/show"
+  },
+  {
+    "name": "Grotle",
+    "set": "A2",
+    "set_number": "011",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093094/6f777e102ffd24b855b74b9456f11052.png/show"
+  },
+  {
+    "name": "Torterra",
+    "set": "A2",
+    "set_number": "012",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093096/1cadebb1fc1444e1ef17b531f4e25fd8.png/show"
+  },
+  {
+    "name": "Kricketot",
+    "set": "A2",
+    "set_number": "013",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093099/46c07ac0ebed330b0e236411be04c51d.png/show"
+  },
+  {
+    "name": "Kricketune",
+    "set": "A2",
+    "set_number": "014",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093098/b6da30417660d2988af15005309e5e57.png/show"
+  },
+  {
+    "name": "Burmy",
+    "set": "A2",
+    "set_number": "015",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093093/1fc95e7eb03096a34cfa4f4e3d7d5993.png/show"
+  },
+  {
+    "name": "Wormadam",
+    "set": "A2",
+    "set_number": "016",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093092/451ee6463dd7607a1de7ccc3746072ca.png/show"
+  },
+  {
+    "name": "Combee",
+    "set": "A2",
+    "set_number": "017",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093101/d26deae27e8e3dfc488e1cb535316d5d.png/show"
+  },
+  {
+    "name": "Vespiquen",
+    "set": "A2",
+    "set_number": "018",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093097/15ed495fc2933a2fa00bccfd38ffb6ab.png/show"
+  },
+  {
+    "name": "Carnivine",
+    "set": "A2",
+    "set_number": "019",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093095/07c2ceb8da11b058b16abca80bb750b5.png/show"
+  },
+  {
+    "name": "Leafeon",
+    "set": "A2",
+    "set_number": "020",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093100/973694a153e11ba963d8011de130b5e1.png/show"
+  },
+  {
+    "name": "Mow",
+    "set": "A2",
+    "set_number": "021",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093104/6220ac503e478f6a14a6c0fb6cc6b2b8.png/show"
+  },
+  {
+    "name": "Shaymin",
+    "set": "A2",
+    "set_number": "022",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093108/417b37748fce84ec74e49a9f38dc8f1a.png/show"
+  },
+  {
+    "name": "Magmar",
+    "set": "A2",
+    "set_number": "023",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Fire",
+    "url": "https://img.game8.co/4093102/97a7ba36eb9d1ccb90ef15b10a958506.png/show"
+  },
+  {
+    "name": "Magmortar",
+    "set": "A2",
+    "set_number": "024",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Fire",
+    "url": "https://img.game8.co/4093106/44700cb5e623cc319d521a1a2ff4b915.png/show"
+  },
+  {
+    "name": "Slugma",
+    "set": "A2",
+    "set_number": "025",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Fire",
+    "url": "https://img.game8.co/4093110/0bbf918dd32ea9fdd71db45355d3591e.png/show"
+  },
+  {
+    "name": "Magcargo",
+    "set": "A2",
+    "set_number": "026",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Fire",
+    "url": "https://img.game8.co/4093103/4ede50e62e9568b31ed56dfccdb575d6.png/show"
+  },
+  {
+    "name": "Chimchar",
+    "set": "A2",
+    "set_number": "027",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Fire",
+    "url": "https://img.game8.co/4088350/ee0e1127bdde13cb9e523aa7923b47f4.png/show"
+  },
+  {
+    "name": "Monferno",
+    "set": "A2",
+    "set_number": "028",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Fire",
+    "url": "https://img.game8.co/4093107/ccfc507262c60cb90718ad05612661ab.png/show"
+  },
+  {
+    "name": "Infernape",
+    "set": "A2",
+    "set_number": "029",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Fire",
+    "url": "https://img.game8.co/4093105/7e3ae58d0cb7846f87422575bdb1822e.png/show"
+  },
+  {
+    "name": "Heat",
+    "set": "A2",
+    "set_number": "030",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Fire",
+    "url": "https://img.game8.co/4093109/5f0a5acdb6cbbda3953124b3f6a3c74e.png/show"
+  },
+  {
+    "name": "Swinub",
+    "set": "A2",
+    "set_number": "031",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Water",
+    "url": "https://img.game8.co/4093114/4ed9145736d285db42d71ea77d1da538.png/show"
+  },
+  {
+    "name": "Piloswine",
+    "set": "A2",
+    "set_number": "032",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Water",
+    "url": "https://img.game8.co/4093118/5485cb025e54042e6c804fb14d7c05b3.png/show"
+  },
+  {
+    "name": "Mamoswine",
+    "set": "A2",
+    "set_number": "033",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Water",
+    "url": "https://img.game8.co/4093116/11f4344d416a14889fdf71874bcb6ca1.png/show"
+  },
+  {
+    "name": "Regice",
+    "set": "A2",
+    "set_number": "034",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093117/ebac3c136ac64646a65a58bce30d87ca.png/show"
+  },
+  {
+    "name": "Piplup",
+    "set": "A2",
+    "set_number": "035",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4088366/6cc158c6c97da0a8764962523e078ec3.png/show"
+  },
+  {
+    "name": "Prinplup",
+    "set": "A2",
+    "set_number": "036",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093111/88e3e93b252afe018824d6cd2a1d7607.png/show"
+  },
+  {
+    "name": "Empoleon",
+    "set": "A2",
+    "set_number": "037",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093115/2784bf32979052ef4d008310732bbdc6.png/show"
+  },
+  {
+    "name": "Buizel",
+    "set": "A2",
+    "set_number": "038",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4093112/8bffd31b69763d9379035d009efb58d5.png/show"
+  },
+  {
+    "name": "Floatzel",
+    "set": "A2",
+    "set_number": "039",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4093113/3640f462664d6bff4c101427a5cab87e.png/show"
+  },
+  {
+    "name": "Shellos",
+    "set": "A2",
+    "set_number": "040",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093119/f0082469047bfbc68d2a47a6a3e9852d.png/show"
+  },
+  {
+    "name": "Gastrodon",
+    "set": "A2",
+    "set_number": "041",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093122/f284d962a68d37450a84c832ec18858c.png/show"
+  },
+  {
+    "name": "Finneon",
+    "set": "A2",
+    "set_number": "042",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4093127/ce7c8e28fb5958308fe0258331ba6093.png/show"
+  },
+  {
+    "name": "Lumineon",
+    "set": "A2",
+    "set_number": "043",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4093125/6cbc7d2b7ea76574145eee6e2d221313.png/show"
+  },
+  {
+    "name": "Snover",
+    "set": "A2",
+    "set_number": "044",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4093121/9fb97637fa4785ef19f5e77d5513399e.png/show"
+  },
+  {
+    "name": "Abomasnow",
+    "set": "A2",
+    "set_number": "045",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4093120/572913ce14df24d113e660452a20c2fc.png/show"
+  },
+  {
+    "name": "Glaceon",
+    "set": "A2",
+    "set_number": "046",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093123/2b7ed57518230b075cea0690ea0f6da4.png/show"
+  },
+  {
+    "name": "Wash",
+    "set": "A2",
+    "set_number": "047",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4093129/268ef477add8123aecbcaa9da53138bf.png/show"
+  },
+  {
+    "name": "Frost",
+    "set": "A2",
+    "set_number": "048",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4093124/355167ca6dc33647edb682e06d1560f5.png/show"
+  },
+  {
+    "name": "Palkia",
+    "set": "A2",
+    "set_number": "049",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4088367/12c37404f5533bfdd179471351a02b1a.png/show"
+  },
+  {
+    "name": "Manaphy",
+    "set": "A2",
+    "set_number": "050",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093126/1f0b320450005c65a90712f3c2b88291.png/show"
+  },
+  {
+    "name": "Magnemite",
+    "set": "A2",
+    "set_number": "051",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093138/01bbf39e2572620147af174d3a803dce.png/show"
+  },
+  {
+    "name": "Magneton",
+    "set": "A2",
+    "set_number": "052",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093131/e619b563fed66c2a9f4fdcd05bfa03c8.png/show"
+  },
+  {
+    "name": "Magnezone",
+    "set": "A2",
+    "set_number": "053",
+    "rarity": "◇◇◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093139/ac4403949386118a0a63c7cfc8be9f83.png/show"
+  },
+  {
+    "name": "Voltorb",
+    "set": "A2",
+    "set_number": "054",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093137/035e43dc0deb63d44ded573c1cff8190.png/show"
+  },
+  {
+    "name": "Electrode",
+    "set": "A2",
+    "set_number": "055",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093132/26149c0a51fc67a2ff61ab4d5478d343.png/show"
+  },
+  {
+    "name": "Electabuzz",
+    "set": "A2",
+    "set_number": "056",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093130/bc6dc363d215a9bde000bf357c3927a6.png/show"
+  },
+  {
+    "name": "Electivire",
+    "set": "A2",
+    "set_number": "057",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093135/a49f1f0f54b7a69ab90786bd61c133df.png/show"
+  },
+  {
+    "name": "Shinx",
+    "set": "A2",
+    "set_number": "058",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093134/e4a041a416188534fb7256f7a84fbe8d.png/show"
+  },
+  {
+    "name": "Luxio",
+    "set": "A2",
+    "set_number": "059",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093133/d3b1b57a60619941412d617c7a9c8827.png/show"
+  },
+  {
+    "name": "Luxray",
+    "set": "A2",
+    "set_number": "060",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093136/01dac441c71cacdf40a53b6380e0b817.png/show"
+  },
+  {
+    "name": "Pachirisu",
+    "set": "A2",
+    "set_number": "061",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093149/750d20c34865f34919563fb92afb6d81.png/show"
+  },
+  {
+    "name": "Rotom",
+    "set": "A2",
+    "set_number": "062",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093142/c5e8a79de2dc0a4f491ea36f882f00d3.png/show"
+  },
+  {
+    "name": "Togepi",
+    "set": "A2",
+    "set_number": "063",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093144/acf03aa9bf9837dc79bbf7997466c931.png/show"
+  },
+  {
+    "name": "Togetic",
+    "set": "A2",
+    "set_number": "064",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093147/f0c421e6987f3d221412570983be16d6.png/show"
+  },
+  {
+    "name": "Togekiss",
+    "set": "A2",
+    "set_number": "065",
+    "rarity": "◇◇◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093141/5564bf9488479fd34d2796eeebf416ca.png/show"
+  },
+  {
+    "name": "Misdreavus",
+    "set": "A2",
+    "set_number": "066",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093146/ed4fd64e4e9fbc6d10be4f2ca4413c0a.png/show"
+  },
+  {
+    "name": "Mismagius",
+    "set": "A2",
+    "set_number": "067",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093140/d7cec1d20229952cd434da5d8a584a58.png/show"
+  },
+  {
+    "name": "Ralts",
+    "set": "A2",
+    "set_number": "068",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093143/37996f97bb254566ac92b833e89f13d4.png/show"
+  },
+  {
+    "name": "Kirlia",
+    "set": "A2",
+    "set_number": "069",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093148/a96c4bc63e86bef66b6afbd1df60bb4d.png/show"
+  },
+  {
+    "name": "Duskull",
+    "set": "A2",
+    "set_number": "070",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093145/e0d68267e0e1b95bf8a2660da581f20d.png/show"
+  },
+  {
+    "name": "Dusclops",
+    "set": "A2",
+    "set_number": "071",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093151/cedd2f68f82f5b90cb2feb9b1c8b116f.png/show"
+  },
+  {
+    "name": "Dusknoir",
+    "set": "A2",
+    "set_number": "072",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093156/007c77ef3873fb7e690a1aa073fc4080.png/show"
+  },
+  {
+    "name": "Drifloon",
+    "set": "A2",
+    "set_number": "073",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093158/ceb0bce98ae2cb82ffc105decd695f27.png/show"
+  },
+  {
+    "name": "Drifblim",
+    "set": "A2",
+    "set_number": "074",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093153/14e750259ccebf2b5599dec56bb7a7b4.png/show"
+  },
+  {
+    "name": "Uxie",
+    "set": "A2",
+    "set_number": "075",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093159/8bd4f3ecdcaa88d41a344142f050a54c.png/show"
+  },
+  {
+    "name": "Mesprit",
+    "set": "A2",
+    "set_number": "076",
+    "rarity": "◇◇◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093154/14fad08db7fca0fe9dd0ea13cdf9a19c.png/show"
+  },
+  {
+    "name": "Azelf",
+    "set": "A2",
+    "set_number": "077",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093152/c4aeb959530addc2b641bd0a3a1153c2.png/show"
+  },
+  {
+    "name": "Giratina",
+    "set": "A2",
+    "set_number": "078",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093150/0b583722698d8193fa2a978c2796fb1b.png/show"
+  },
+  {
+    "name": "Cresselia",
+    "set": "A2",
+    "set_number": "079",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093157/8c1a5e2e7f1b112f861eadfd6a8198d3.png/show"
+  },
+  {
+    "name": "Rhyhorn",
+    "set": "A2",
+    "set_number": "080",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093155/081672220f46378649fbb2183732834b.png/show"
+  },
+  {
+    "name": "Rhydon",
+    "set": "A2",
+    "set_number": "081",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093163/9ab2f7ca1e1756a3076305dabf225463.png/show"
+  },
+  {
+    "name": "Rhyperior",
+    "set": "A2",
+    "set_number": "082",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093169/6d60995355fa740fdf1b550e54cbdbe7.png/show"
+  },
+  {
+    "name": "Gligar",
+    "set": "A2",
+    "set_number": "083",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093164/7c7e0921fc1798b50fe5b2d48e029a2d.png/show"
+  },
+  {
+    "name": "Gliscor",
+    "set": "A2",
+    "set_number": "084",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093167/583a65c07fd0810b4810ccea58e5ef48.png/show"
+  },
+  {
+    "name": "Hitmontop",
+    "set": "A2",
+    "set_number": "085",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093168/191d833f3b13cb998980b23164efcb0e.png/show"
+  },
+  {
+    "name": "Nosepass",
+    "set": "A2",
+    "set_number": "086",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093160/3b0e396727a65d43c3e2e3f7f2abcd93.png/show"
+  },
+  {
+    "name": "Regirock",
+    "set": "A2",
+    "set_number": "087",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093161/86149d31a5304024ac013e9d7ee3eeda.png/show"
+  },
+  {
+    "name": "Cranidos",
+    "set": "A2",
+    "set_number": "088",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093166/499a18094e046b5d6fc3ecf4ddc3e21d.png/show"
+  },
+  {
+    "name": "Rampardos",
+    "set": "A2",
+    "set_number": "089",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093162/fe688e8df3e9620fbf2996d087724a63.png/show"
+  },
+  {
+    "name": "Wormadam",
+    "set": "A2",
+    "set_number": "090",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093165/ff59f2fd45d38467995de248d908bc02.png/show"
+  },
+  {
+    "name": "Riolu",
+    "set": "A2",
+    "set_number": "091",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093174/d12ea94fd99e359aa9bbf4568b09ec28.png/show"
+  },
+  {
+    "name": "Lucario",
+    "set": "A2",
+    "set_number": "092",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093178/695fd51ae5d7d852cc496ec7caf97bf9.png/show"
+  },
+  {
+    "name": "Hippopotas",
+    "set": "A2",
+    "set_number": "093",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093172/49f0e4bcf6e6a05abfa4643181850b47.png/show"
+  },
+  {
+    "name": "Hippowdon",
+    "set": "A2",
+    "set_number": "094",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093176/2c6d9916e34bd79ab271f606222ad777.png/show"
+  },
+  {
+    "name": "Gallade",
+    "set": "A2",
+    "set_number": "095",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093171/e732913ba80a74248ffd299fe26a1586.png/show"
+  },
+  {
+    "name": "Murkrow",
+    "set": "A2",
+    "set_number": "096",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093170/bc0f156c2b8747c5f6045fdf5ee27ce1.png/show"
+  },
+  {
+    "name": "Honchkrow",
+    "set": "A2",
+    "set_number": "097",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093179/04b09b9f1c88b2abda05b59a775c4ac6.png/show"
+  },
+  {
+    "name": "Sneasel",
+    "set": "A2",
+    "set_number": "098",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093175/c6518284154b9ff016a57fb4b486f3f5.png/show"
+  },
+  {
+    "name": "Weavile",
+    "set": "A2",
+    "set_number": "099",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093173/93553c45ec5ed0efc0459ebb0e2eaece.png/show"
+  },
+  {
+    "name": "Poochyena",
+    "set": "A2",
+    "set_number": "100",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093177/d466e75652b25241b4b3eac96e946c53.png/show"
+  },
+  {
+    "name": "Mightyena",
+    "set": "A2",
+    "set_number": "101",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093189/c7e3835336d946289670f82bbf390b7e.png/show"
+  },
+  {
+    "name": "Stunky",
+    "set": "A2",
+    "set_number": "102",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093181/6f3de5ca97f7faa3bb780546345908e9.png/show"
+  },
+  {
+    "name": "Skuntank",
+    "set": "A2",
+    "set_number": "103",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093183/2110d9f0123fc1da4263bf0a86bb3adb.png/show"
+  },
+  {
+    "name": "Spiritomb",
+    "set": "A2",
+    "set_number": "104",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093187/01a513c9e852b3a904e8769f4904cd95.png/show"
+  },
+  {
+    "name": "Skorupi",
+    "set": "A2",
+    "set_number": "105",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093182/1d7020a372ea0c795d596507a2cc4965.png/show"
+  },
+  {
+    "name": "Drapion",
+    "set": "A2",
+    "set_number": "106",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093188/4dbbb17b91e1f9f625b85cb08c99b4d1.png/show"
+  },
+  {
+    "name": "Croagunk",
+    "set": "A2",
+    "set_number": "107",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093184/60e2d2ad8ca7eb15aa88b85f1ca6dcf0.png/show"
+  },
+  {
+    "name": "Toxicroak",
+    "set": "A2",
+    "set_number": "108",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093186/e4e5af5ee3929240fe02690911ca71b1.png/show"
+  },
+  {
+    "name": "Darkrai",
+    "set": "A2",
+    "set_number": "109",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093180/05b6da6e62b0b3312ca4ef578ed59c3d.png/show"
+  },
+  {
+    "name": "Darkrai",
+    "set": "A2",
+    "set_number": "110",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093185/0bff2b2046d7597c20262dd1ecf7926d.png/show"
+  },
+  {
+    "name": "Skarmory",
+    "set": "A2",
+    "set_number": "111",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093197/522f053345fae88346686aacf6f94962.png/show"
+  },
+  {
+    "name": "Registeel",
+    "set": "A2",
+    "set_number": "112",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093190/71bca51e53eaa068543362737ad3eb64.png/show"
+  },
+  {
+    "name": "Shieldon",
+    "set": "A2",
+    "set_number": "113",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093195/cc013b4a7bbe735c14352a234ddf10a0.png/show"
+  },
+  {
+    "name": "Bastiodon",
+    "set": "A2",
+    "set_number": "114",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093198/0b76438db7893e1c8757ca15a6d57b8f.png/show"
+  },
+  {
+    "name": "Wormadam",
+    "set": "A2",
+    "set_number": "115",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093192/5226897eccd276c6a0313c33e34ee07e.png/show"
+  },
+  {
+    "name": "Bronzor",
+    "set": "A2",
+    "set_number": "116",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093193/9d409cab03481b55408d2d98b9291fc7.png/show"
+  },
+  {
+    "name": "Bronzong",
+    "set": "A2",
+    "set_number": "117",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093194/63831adde3e2560ad206d6a31fe580e7.png/show"
+  },
+  {
+    "name": "Probopass",
+    "set": "A2",
+    "set_number": "118",
+    "rarity": "◇◇",
+    "booster_pack": "Any",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093191/7de0ff19cfe52e5ebbc5b8fb1794188e.png/show"
+  },
+  {
+    "name": "Dialga",
+    "set": "A2",
+    "set_number": "119",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Metal",
+    "url": "https://img.game8.co/4088373/a1610910adcf247d45e25b09e6140864.png/show"
+  },
+  {
+    "name": "Heatran",
+    "set": "A2",
+    "set_number": "120",
+    "rarity": "◇◇◇",
+    "booster_pack": "Dialga",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093196/1624d90030cdcc4b1c55a2eb8d2a0ce1.png/show"
+  },
+  {
+    "name": "Gible",
+    "set": "A2",
+    "set_number": "121",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Dragon",
+    "url": "https://img.game8.co/4093205/aa35ec11da81a26751238255d6e49fd5.png/show"
+  },
+  {
+    "name": "Gabite",
+    "set": "A2",
+    "set_number": "122",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Dragon",
+    "url": "https://img.game8.co/4093208/bf853702d95d5132e92f898ba7e99092.png/show"
+  },
+  {
+    "name": "Garchomp",
+    "set": "A2",
+    "set_number": "123",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Dragon",
+    "url": "https://img.game8.co/4093203/fa289e77b7719f3aef19b3405f1757e7.png/show"
+  },
+  {
+    "name": "Lickitung",
+    "set": "A2",
+    "set_number": "124",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093206/1c0f22d83a51257933ede4f62ef3a64f.png/show"
+  },
+  {
+    "name": "Lickilicky",
+    "set": "A2",
+    "set_number": "125",
+    "rarity": "◇◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093207/b13399ce9c887b1a82abc8cd313a1532.png/show"
+  },
+  {
+    "name": "Eevee",
+    "set": "A2",
+    "set_number": "126",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093200/d61daea595175875746213393243481c.png/show"
+  },
+  {
+    "name": "Porygon",
+    "set": "A2",
+    "set_number": "127",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093199/78598c12123c3238ba802339fe8d650a.png/show"
+  },
+  {
+    "name": "Porygon2",
+    "set": "A2",
+    "set_number": "128",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093202/1e864b5483eea615aafd1dec5490f3ee.png/show"
+  },
+  {
+    "name": "Porygon-Z",
+    "set": "A2",
+    "set_number": "129",
+    "rarity": "◇◇◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093204/c3f1fc55a42921c649fb0aa04951b2a3.png/show"
+  },
+  {
+    "name": "Aipom",
+    "set": "A2",
+    "set_number": "130",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093201/1a257a39741ecd05ce914b77759fbd3f.png/show"
+  },
+  {
+    "name": "Ambipom",
+    "set": "A2",
+    "set_number": "131",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093211/3cca68d98c2cc518d4bc4b66e8980748.png/show"
+  },
+  {
+    "name": "Starly",
+    "set": "A2",
+    "set_number": "132",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093209/a5c44b3e1455e58cfb5a0bb9945f53ed.png/show"
+  },
+  {
+    "name": "Staravia",
+    "set": "A2",
+    "set_number": "133",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093216/db97e2e1fff9d27fc8fa758eb484b334.png/show"
+  },
+  {
+    "name": "Staraptor",
+    "set": "A2",
+    "set_number": "134",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093218/2d9df52753269e75dd9f54c7c40e33dc.png/show"
+  },
+  {
+    "name": "Bidoof",
+    "set": "A2",
+    "set_number": "135",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093217/80579dd02ee4317d5d1f8e113eda58e8.png/show"
+  },
+  {
+    "name": "Bibarel",
+    "set": "A2",
+    "set_number": "136",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093210/51e783f4035200a9d646f6e63ef28b97.png/show"
+  },
+  {
+    "name": "Buneary",
+    "set": "A2",
+    "set_number": "137",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093215/9baf0ffe9db3eede341927b1488f57e4.png/show"
+  },
+  {
+    "name": "Lopunny",
+    "set": "A2",
+    "set_number": "138",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093212/9ff3960b63a20f98cc745a8329330e13.png/show"
+  },
+  {
+    "name": "Glameow",
+    "set": "A2",
+    "set_number": "139",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093213/ea3a9b22be31204d1f6f60571166e046.png/show"
+  },
+  {
+    "name": "Purugly",
+    "set": "A2",
+    "set_number": "140",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093214/a9e11b9a4887bd08c18d7050f5d9445d.png/show"
+  },
+  {
+    "name": "Chatot",
+    "set": "A2",
+    "set_number": "141",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093228/6b165810ed79e67dc769c7c15df4eafb.png/show"
+  },
+  {
+    "name": "Fan",
+    "set": "A2",
+    "set_number": "142",
+    "rarity": "◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093223/755df3c2d5b1a6aca86647e696b88627.png/show"
+  },
+  {
+    "name": "Regigigas",
+    "set": "A2",
+    "set_number": "143",
+    "rarity": "◇◇◇",
+    "booster_pack": "Any",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093225/31e4c7b576c8cb8773c8459b90c371bd.png/show"
+  },
+  {
+    "name": "Skull",
+    "set": "A2",
+    "set_number": "144",
+    "rarity": "◇",
+    "booster_pack": "Dialga",
+    "type": "Item",
+    "url": "https://img.game8.co/4093227/397d34b53ea044ff215952b9c8c87d57.png/show"
+  },
+  {
+    "name": "Armor",
+    "set": "A2",
+    "set_number": "145",
+    "rarity": "◇",
+    "booster_pack": "Palkia",
+    "type": "Item",
+    "url": "https://img.game8.co/4093224/ff066419ccbc3a68f1fb5ae39c670013.png/show"
+  },
+  {
+    "name": "Pokemon",
+    "set": "A2",
+    "set_number": "146",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Item",
+    "url": "https://img.game8.co/4093220/0593bad9cc1033728f4858ff7e0622f8.png/show"
+  },
+  {
+    "name": "Giant",
+    "set": "A2",
+    "set_number": "147",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Pokemon",
+    "url": "https://img.game8.co/4093222/c3428915fc3c343f965b06f393e4bbe3.png/show"
+  },
+  {
+    "name": "Rocky",
+    "set": "A2",
+    "set_number": "148",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Pokemon",
+    "url": "https://img.game8.co/4093226/bfd8227e5c520b26b5be32ea16acdf22.png/show"
+  },
+  {
+    "name": "Lum",
+    "set": "A2",
+    "set_number": "149",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Pokemon",
+    "url": "https://img.game8.co/4093219/d59a25878f9ebf930292153ab85ea8ac.png/show"
+  },
+  {
+    "name": "Cyrus",
+    "set": "A2",
+    "set_number": "150",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093221/cea94d1e578a7a24a5be2146848a6f96.png/show"
+  },
+  {
+    "name": "Team",
+    "set": "A2",
+    "set_number": "151",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093232/7d7b7cbe13b1fe770914150fc908ef82.png/show"
+  },
+  {
+    "name": "Cynthia",
+    "set": "A2",
+    "set_number": "152",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093237/2e41c8924477142ce053ae3faa40d00e.png/show"
+  },
+  {
+    "name": "Volkner",
+    "set": "A2",
+    "set_number": "153",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093236/0a9ac6e4d6f3d358df98f15dc5adf322.png/show"
+  },
+  {
+    "name": "Dawn",
+    "set": "A2",
+    "set_number": "154",
+    "rarity": "◇◇",
+    "booster_pack": "Dialga",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093230/1e0dced8b2b233eacf1f04d1e9dc5643.png/show"
+  },
+  {
+    "name": "Mars",
+    "set": "A2",
+    "set_number": "155",
+    "rarity": "◇◇",
+    "booster_pack": "Palkia",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093234/e5ecae2cdf1ff2bec62cc7031318aa01.png/show"
+  },
+  {
+    "name": "Tangrowth",
+    "set": "A2",
+    "set_number": "156",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093235/ed9868896905bffa22fe55c79fdb40cb.png/show"
+  },
+  {
+    "name": "Combee",
+    "set": "A2",
+    "set_number": "157",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093231/68c08e1c4f60f632ba33221c2c18d536.png/show"
+  },
+  {
+    "name": "Carnivine",
+    "set": "A2",
+    "set_number": "158",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093229/1a5fdddae0c678d36ce1e25fda3c7bc4.png/show"
+  },
+  {
+    "name": "Shaymin",
+    "set": "A2",
+    "set_number": "159",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093233/00074d6468601a4da385c2403ba7fc85.png/show"
+  },
+  {
+    "name": "Mamoswine",
+    "set": "A2",
+    "set_number": "160",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Water",
+    "url": "https://img.game8.co/4093238/44a5993a4b9e3b640df408e0bf77a910.png/show"
+  },
+  {
+    "name": "Gastrodon",
+    "set": "A2",
+    "set_number": "161",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093330/2873e306e40a6c7d40430cfc5fc5e857.png/show"
+  },
+  {
+    "name": "Manaphy",
+    "set": "A2",
+    "set_number": "162",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093325/3fe7cc93082d1d9242b399f3d21e1f17.png/show"
+  },
+  {
+    "name": "Shinx",
+    "set": "A2",
+    "set_number": "163",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093324/636aea9141cedb6a14c7342003855a6b.png/show"
+  },
+  {
+    "name": "Rotom",
+    "set": "A2",
+    "set_number": "164",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093329/97c13ce347115ac12ff89d52107cb6cb.png/show"
+  },
+  {
+    "name": "Drifloon",
+    "set": "A2",
+    "set_number": "165",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093323/538e298296219d27b5f0040cbf929b93.png/show"
+  },
+  {
+    "name": "Mesprit",
+    "set": "A2",
+    "set_number": "166",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093322/857f9780a5ccd3d266fb22840ba0b8f8.png/show"
+  },
+  {
+    "name": "Giratina",
+    "set": "A2",
+    "set_number": "167",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093328/706a08fa93871d3d28ef902247d8491d.png/show"
+  },
+  {
+    "name": "Cresselia",
+    "set": "A2",
+    "set_number": "168",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093327/7b16384a66e7847d3d2c958e5087c5ce.png/show"
+  },
+  {
+    "name": "Rhyperior",
+    "set": "A2",
+    "set_number": "169",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093326/a46d750c6c0da1e044cd857abaf54a19.png/show"
+  },
+  {
+    "name": "Lucario",
+    "set": "A2",
+    "set_number": "170",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4088377/ca1b00b81fe1c748256e5096a5d3e8cc.png/show"
+  },
+  {
+    "name": "Hippopotas",
+    "set": "A2",
+    "set_number": "171",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093321/fb6cec7792e5b27f286c705365cd8e49.png/show"
+  },
+  {
+    "name": "Spiritomb",
+    "set": "A2",
+    "set_number": "172",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093319/fcf5fea01ffbfbd3004fcc6d7a795f5b.png/show"
+  },
+  {
+    "name": "Croagunk",
+    "set": "A2",
+    "set_number": "173",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093316/96954f8526d656a3483833a5a7268040.png/show"
+  },
+  {
+    "name": "Heatran",
+    "set": "A2",
+    "set_number": "174",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093318/dc880b8db11bfa393f59c9682d42fe89.png/show"
+  },
+  {
+    "name": "Garchomp",
+    "set": "A2",
+    "set_number": "175",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Dragon",
+    "url": "https://img.game8.co/4093312/ef98ee9dc1e8d98b469e85f461be1caf.png/show"
+  },
+  {
+    "name": "Staraptor",
+    "set": "A2",
+    "set_number": "176",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093314/4fb0733a2fedff76edea57c8bf976382.png/show"
+  },
+  {
+    "name": "Bidoof",
+    "set": "A2",
+    "set_number": "177",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093315/438295217c88b2c2ffe48481138fbf66.png/show"
+  },
+  {
+    "name": "Glameow",
+    "set": "A2",
+    "set_number": "178",
+    "rarity": "☆",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093320/021e3d31d575bd630fee01d2a6be1dd9.png/show"
+  },
+  {
+    "name": "Regigigas",
+    "set": "A2",
+    "set_number": "179",
+    "rarity": "☆",
+    "booster_pack": "Dialga",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093317/0d04dfca9e6753e91b5373e86d6145bd.png/show"
+  },
+  {
+    "name": "Yanmega",
+    "set": "A2",
+    "set_number": "180",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093313/86e6031b91634031bf850d931fd29ce2.png/show"
+  },
+  {
+    "name": "Infernape",
+    "set": "A2",
+    "set_number": "181",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Fire",
+    "url": "https://img.game8.co/4093334/f9da583bdaa8533e6fb0c914ff1257bc.png/show"
+  },
+  {
+    "name": "Palkia",
+    "set": "A2",
+    "set_number": "182",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093340/4599ac1110b00e89d3e895aa526796e4.png/show"
+  },
+  {
+    "name": "Pachirisu",
+    "set": "A2",
+    "set_number": "183",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093335/eca2dc4de56f03e44e98824698a2e9e5.png/show"
+  },
+  {
+    "name": "Mismagius",
+    "set": "A2",
+    "set_number": "184",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093338/098892d663dae114f5e42cc07b1ef980.png/show"
+  },
+  {
+    "name": "Gallade",
+    "set": "A2",
+    "set_number": "185",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093331/e702c134d2bc0c234f7de2563cebaf45.png/show"
+  },
+  {
+    "name": "Weavile",
+    "set": "A2",
+    "set_number": "186",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093332/9c62f6b6dca5310cdeea213407d08dc7.png/show"
+  },
+  {
+    "name": "Darkrai",
+    "set": "A2",
+    "set_number": "187",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093341/f258523f0796213f17107aff102447c3.png/show"
+  },
+  {
+    "name": "Dialga",
+    "set": "A2",
+    "set_number": "188",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093336/83841f671f1b66dab742ff9bee14f4a6.png/show"
+  },
+  {
+    "name": "Lickilicky",
+    "set": "A2",
+    "set_number": "189",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093333/cf7e466b9e11b47ad7f286cf5c380ff6.png/show"
+  },
+  {
+    "name": "Cyrus",
+    "set": "A2",
+    "set_number": "190",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093339/02768b1d252b382f6c3af6e9ca6eaed4.png/show"
+  },
+  {
+    "name": "Team",
+    "set": "A2",
+    "set_number": "191",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093337/982529af402f013196924a3f849399f0.png/show"
+  },
+  {
+    "name": "Cynthia",
+    "set": "A2",
+    "set_number": "192",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4090820/c02481b100fe30af364ca642b6f30e4b.png/show"
+  },
+  {
+    "name": "Volkner",
+    "set": "A2",
+    "set_number": "193",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093344/77b5c80d3ac52fc8709a5e0d8adc5a87.png/show"
+  },
+  {
+    "name": "Dawn",
+    "set": "A2",
+    "set_number": "194",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093351/7b0607b77229dc4d110aee108ed155cd.png/show"
+  },
+  {
+    "name": "Mars",
+    "set": "A2",
+    "set_number": "195",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Supporter",
+    "url": "https://img.game8.co/4093352/0a94032c29f43c37151ac28ea49e950b.png/show"
+  },
+  {
+    "name": "Yanmega",
+    "set": "A2",
+    "set_number": "196",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093355/3373164311264f2dda4de83c9a663681.png/show"
+  },
+  {
+    "name": "Infernape",
+    "set": "A2",
+    "set_number": "197",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Fire",
+    "url": "https://img.game8.co/4093342/a6ae4cd7993791191703ccc578198eb3.png/show"
+  },
+  {
+    "name": "Pachirisu",
+    "set": "A2",
+    "set_number": "198",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093353/7da8c01ae18c4353994c0d7ffe03a209.png/show"
+  },
+  {
+    "name": "Mismagius",
+    "set": "A2",
+    "set_number": "199",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093348/cc425f9d9f135b6c064678b137bd6dcf.png/show"
+  },
+  {
+    "name": "Gallade",
+    "set": "A2",
+    "set_number": "200",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4093354/481c5a8c61206c3dcb42f1f8564940a4.png/show"
+  },
+  {
+    "name": "Weavile",
+    "set": "A2",
+    "set_number": "201",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093347/4d179253439df5cbd88562bca2e9dec2.png/show"
+  },
+  {
+    "name": "Darkrai",
+    "set": "A2",
+    "set_number": "202",
+    "rarity": "☆☆",
+    "booster_pack": "Dialga",
+    "type": "Darkness",
+    "url": "https://img.game8.co/4093349/2414867984c82db97b5484bde75fe5c2.png/show"
+  },
+  {
+    "name": "Lickilicky",
+    "set": "A2",
+    "set_number": "203",
+    "rarity": "☆☆",
+    "booster_pack": "Palkia",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4093350/19af9b06f1d70a3eccb506909c4d27f6.png/show"
+  },
+  {
+    "name": "Palkia",
+    "set": "A2",
+    "set_number": "204",
+    "rarity": "☆☆☆",
+    "booster_pack": "Palkia",
+    "type": "Water",
+    "url": "https://img.game8.co/4093343/a33cb340719ffe13ab68b5f7f43a75e1.png/show"
+  },
+  {
+    "name": "Dialga",
+    "set": "A2",
+    "set_number": "205",
+    "rarity": "☆☆☆",
+    "booster_pack": "Dialga",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093356/5d31362c11d0035a0cb2e22fc390a385.png/show"
+  },
+  {
+    "name": "Palkia",
+    "set": "A2",
+    "set_number": "206",
+    "rarity": "♛",
+    "booster_pack": "Any",
+    "type": "Water",
+    "url": "https://img.game8.co/4093345/42083b2748a934aa53cb3cee0d48a3b5.png/show"
+  },
+  {
+    "name": "Dialga",
+    "set": "A2",
+    "set_number": "207",
+    "rarity": "♛",
+    "booster_pack": "Any",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093346/829507e34d043942d04383d403b308dd.png/show"
+  },
+  {
+    "name": "Potion",
+    "set": "P-A",
+    "set_number": "001",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Item",
+    "url": "https://img.game8.co/3998353/d3f67748817342fa3fad937b1284fea1.png/show"
+  },
+  {
+    "name": "X",
+    "set": "P-A",
+    "set_number": "002",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Item",
+    "url": "https://img.game8.co/4000891/75f81b1837366532a6ce88aa0c01fcb1.png/show"
+  },
+  {
+    "name": "Hand",
+    "set": "P-A",
+    "set_number": "003",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Item",
+    "url": "https://img.game8.co/4000890/8a9e7bf254b1025a6138b24db0bf052e.png/show"
+  },
+  {
+    "name": "Pokedex",
+    "set": "P-A",
+    "set_number": "004",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Item",
+    "url": "https://img.game8.co/4000889/3bd683bcf30fe47bf77ccf0df3b3a26c.png/show"
+  },
+  {
+    "name": "Poke",
+    "set": "P-A",
+    "set_number": "005",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Item",
+    "url": "https://img.game8.co/3998351/d2ca1646332bd0640346f06449f4d942.png/show"
+  },
+  {
+    "name": "Red",
+    "set": "P-A",
+    "set_number": "006",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Item",
+    "url": "https://img.game8.co/4006596/ed3924da2e7ba5e19dbcdd4795f9be57.png/show"
+  },
+  {
+    "name": "Professor",
+    "set": "P-A",
+    "set_number": "007",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Supporter",
+    "url": "https://img.game8.co/3998352/af036f8053fc2b903b144d532ad7b52e.png/show"
+  },
+  {
+    "name": "Pokedex",
+    "set": "P-A",
+    "set_number": "008",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Item",
+    "url": "https://img.game8.co/4085295/7fca9c4b4ac359d5aa70c3cee327de50.png/show"
+  },
+  {
+    "name": "Pikachu",
+    "set": "P-A",
+    "set_number": "009",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4004048/f45514971d258b013b49cf6c9a204da2.png/show"
+  },
+  {
+    "name": "Mewtwo",
+    "set": "P-A",
+    "set_number": "010",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4054527/0f96bb31bd00fab027737ec950123d97.png/show"
+  },
+  {
+    "name": "Chansey",
+    "set": "P-A",
+    "set_number": "011",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4032133/e3243ed3f9e1bbc7074606dc20450f8c.png/show"
+  },
+  {
+    "name": "Meowth",
+    "set": "P-A",
+    "set_number": "012",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4032134/1eae014c91288208332f7535d300bab5.png/show"
+  },
+  {
+    "name": "Butterfree",
+    "set": "P-A",
+    "set_number": "013",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Grass",
+    "url": "https://img.game8.co/4034574/8036f89ab35034653e65e6eadfb23eab.png/show"
+  },
+  {
+    "name": "Lapras",
+    "set": "P-A",
+    "set_number": "014",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Water",
+    "url": "https://img.game8.co/4034576/f806269df9e3bb18e2f1d6b4e25cb1ff.png/show"
+  },
+  {
+    "name": "Pikachu",
+    "set": "P-A",
+    "set_number": "015",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4034575/e29ad377becf490e07c67b263a70f640.png/show"
+  },
+  {
+    "name": "Clefairy",
+    "set": "P-A",
+    "set_number": "016",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4034573/fd828e42ee6346b4796147f0a0ef17a1.png/show"
+  },
+  {
+    "name": "Mankey",
+    "set": "P-A",
+    "set_number": "017",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4034577/92cb449a39b3f8f10411c3614b0f69e8.png/show"
+  },
+  {
+    "name": "Venusaur",
+    "set": "P-A",
+    "set_number": "018",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Grass",
+    "url": "https://img.game8.co/4053906/ed727564f1051b3afc8d0303d22a9523.png/show"
+  },
+  {
+    "name": "Greninja",
+    "set": "P-A",
+    "set_number": "019",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Water",
+    "url": "https://img.game8.co/4053838/59c64c579bfce1ce1fc2d7c43ea194fa.png/show"
+  },
+  {
+    "name": "Haunter",
+    "set": "P-A",
+    "set_number": "020",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4053905/aedd15ba24a447653bbf65fda30326b4.png/show"
+  },
+  {
+    "name": "Onix",
+    "set": "P-A",
+    "set_number": "021",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Fighting",
+    "url": "https://img.game8.co/4053957/b176c7c8940491b339d3d907cce0a8f9.png/show"
+  },
+  {
+    "name": "Jigglypuff",
+    "set": "P-A",
+    "set_number": "022",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4053956/4ab38f5836757616ce9dfcaa4e737f3d.png/show"
+  },
+  {
+    "name": "Bulbasaur",
+    "set": "P-A",
+    "set_number": "023",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Grass",
+    "url": "https://img.game8.co/4058457/3244f335addbe0a5d39cb2bf45116de2.png/show"
+  },
+  {
+    "name": "Magnemite",
+    "set": "P-A",
+    "set_number": "024",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4058456/f545649510fa97fc47b1630ba9baed56.png/show"
+  },
+  {
+    "name": "Moltres",
+    "set": "P-A",
+    "set_number": "025",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Fire",
+    "url": "https://img.game8.co/4076826/9e4a0501711534adc58c47139d5505e0.png/show"
+  },
+  {
+    "name": "Pikachu",
+    "set": "P-A",
+    "set_number": "026",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4076824/7369fb4052f018e6bdbf58955bb1c568.png/show"
+  },
+  {
+    "name": "Snivy",
+    "set": "P-A",
+    "set_number": "027",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Grass",
+    "url": "https://img.game8.co/4076823/8c6b761a60bc67a9060c34d9aab865f3.png/show"
+  },
+  {
+    "name": "Volcarona",
+    "set": "P-A",
+    "set_number": "028",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Fire",
+    "url": "https://img.game8.co/4076829/5a27ee37a879f1a7daaf43fdd788415d.png/show"
+  },
+  {
+    "name": "Blastoise",
+    "set": "P-A",
+    "set_number": "029",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Water",
+    "url": "https://img.game8.co/4076828/deda0d66e77b23e865d1471c3bf527ef.png/show"
+  },
+  {
+    "name": "Eevee",
+    "set": "P-A",
+    "set_number": "030",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4076827/425f0bdedf121b78172f39dc36b0ab8e.png/show"
+  },
+  {
+    "name": "Cinccino",
+    "set": "P-A",
+    "set_number": "031",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Colorless",
+    "url": "https://img.game8.co/4076825/6c17a04f543b1ba2b17c4b67559a51fe.png/show"
+  },
+  {
+    "name": "Charmander",
+    "set": "P-A",
+    "set_number": "032",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Fire",
+    "url": "https://img.game8.co/4077344/06e0858b3d3eb97af0c0cf7e30eb5cbf.png/show"
+  },
+  {
+    "name": "Squirtle",
+    "set": "P-A",
+    "set_number": "033",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Water",
+    "url": "https://img.game8.co/4077343/aa2f2c3f22a96d470fa26961cce70474.png/show"
+  },
+  {
+    "name": "Turtwig",
+    "set": "P-A",
+    "set_number": "035",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Grass",
+    "url": "https://img.game8.co/4093006/b44aa0f1e5be783292269e2e3b9ec34c.png/show"
+  },
+  {
+    "name": "Electivire",
+    "set": "P-A",
+    "set_number": "036",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Lightning",
+    "url": "https://img.game8.co/4093005/00b97337293f8aef6aa55c21383ee4fc.png/show"
+  },
+  {
+    "name": "Cresselia",
+    "set": "P-A",
+    "set_number": "037",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4094408/76ae92434838b2e6a562fda7b060fec3.png/show"
+  },
+  {
+    "name": "Misdreavus",
+    "set": "P-A",
+    "set_number": "038",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Psychic",
+    "url": "https://img.game8.co/4093004/c02e4a51b69095dab2e557c8dd9a9523.png/show"
+  },
+  {
+    "name": "Skarmory",
+    "set": "P-A",
+    "set_number": "039",
+    "rarity": "Promo",
+    "booster_pack": "Promo-A",
+    "type": "Metal",
+    "url": "https://img.game8.co/4093003/ad75d09d85a2009b250a6ae0280d1d32.png/show"
+  }
+]
