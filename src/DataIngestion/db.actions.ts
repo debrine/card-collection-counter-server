@@ -85,3 +85,25 @@ export async function insertManyCards(
     data: cards,
   });
 }
+
+export async function getCards(
+  prisma: PrismaClient | PrismaTransaction,
+  collectionID: number
+) {
+  return await prisma.$queryRaw<
+    {
+      name: string;
+      set_id: bigint;
+      set_number: number;
+      metadata: { original_url: string };
+    }[]
+  >`
+    SELECT 
+      name,
+      set_id,
+      set_number,
+      metadata
+    FROM cards
+    WHERE collection_id = ${collectionID};
+  `;
+}

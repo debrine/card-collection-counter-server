@@ -4,15 +4,28 @@ import { readFile } from 'fs/promises';
 import * as path from 'path';
 import {
   getBoosterNameToIdMap,
+  getCards,
   getRarityLabelToIdMap,
   getSetNameToIdMap,
   insertManyCards,
 } from './db.actions';
 import { CardSet, SetBoosters } from './pockettcg.constants';
+import { downloadAndSaveImages } from 'src/scripts/imageDownloader';
+import { resizeAndSaveImages } from 'src/scripts/imageResizing';
 
 @Injectable()
 export default class DataIngestionService {
   constructor(private prisma: PrismaService) {}
+
+  async downloadAndSaveCardImages() {
+    const cards = await getCards(this.prisma, 1);
+    console.log('cards', cards);
+    const formattedCards = cards.map((card) => ({
+      url: card.metadata.original_url,
+      label: `${card.set_id}_${card.set_number}_${card.name}`,
+    }));
+    await downloadAndSaveImages(formattedCards);
+  }
 
   async getCardRarityIdByLabelForCollection(collection_id: number) {
     // Build the full path to the JSON file
@@ -58,5 +71,9 @@ export default class DataIngestionService {
       VALUES
         ${cards}
     `;
+  }
+
+  async resizeImages() {
+    return await resizeAndSaveImages();
   }
 }

@@ -7,6 +7,6 @@ export class CardsController {
 
   @Get()
   async getCards(@Param('collectionID') collectionID: number) {
-    return await this.cardsService.getCards(Number(collectionID));
+    return await this.cardsService.getCards(Number(collectionID), {});
   }
 }

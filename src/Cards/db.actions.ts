@@ -1,5 +1,6 @@
 import { Prisma, PrismaClient } from '@prisma/client';
 import { decodeUnicodeEscapes } from 'src/DataIngestion/utils';
+import { Card } from './cards.types';
 
 type PrismaTransaction = Prisma.TransactionClient;
 
@@ -7,7 +8,7 @@ export async function getCards(
   prisma: PrismaClient | PrismaTransaction,
   collectionID: number
 ) {
-  const resp = await prisma.$queryRaw<any[]>`
+  const resp = await prisma.$queryRaw<Card[]>`
     WITH set_objects AS (
 	    SELECT
 		    id,
@@ -41,7 +42,9 @@ FROM cards
 LEFT JOIN set_objects ON set_objects.id = cards.set_id
 LEFT JOIN booster_objects ON booster_objects.id = cards.booster_id
 LEFT JOIN card_rarities ON card_rarities.id = cards.rarity
-WHERE cards.collection_id = ${collectionID};
+WHERE cards.collection_id = ${collectionID}
+ORDER BY cards.set_id, cards.set_number;
+;
     `;
 
   return resp.map((card) => ({
