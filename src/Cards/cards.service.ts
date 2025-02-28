@@ -1,7 +1,14 @@
 import { Injectable } from '@nestjs/common';
 import { PrismaService } from 'src/Prisma/prisma.service';
 import { getCards } from './db.actions';
-import { groupCardsBySetAndBooster } from './cards.utils';
+import {
+  extractCardSearchDetailsFromSearchString,
+  groupCards,
+} from './cards.utils';
+import {
+  getFirstMatchConsecutiveWordsFromString,
+  getNumbersFromString,
+} from 'src/utils/string.utils';
 
 @Injectable()
 export default class CardsService {
@@ -9,21 +16,15 @@ export default class CardsService {
 
   async getCards(
     collection_id: number,
-    { shouldGroup = false }: { shouldGroup?: boolean }
+    { shouldGroup = true }: { shouldGroup?: boolean },
+    searchString?: string
   ) {
-    const cards = await getCards(this.prisma, collection_id);
+    const cards = await getCards(this.prisma, collection_id, searchString);
 
     if (!shouldGroup) {
       return [{ cards }];
-      //   return cards;
     }
 
-    const { groupedCards, setIDs, boosterIDs } =
-      groupCardsBySetAndBooster(cards);
-
-    console.log('setIDs', setIDs);
-    console.log('boosterIDs', boosterIDs);
-
-    return groupedCards;
+    return groupCards(cards);
   }
 }

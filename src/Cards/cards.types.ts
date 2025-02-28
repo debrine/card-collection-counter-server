@@ -6,6 +6,7 @@ export type Card = {
   set: {
     id: string;
     name: string;
+    release_date: string; // YYYY-MM-DD
   };
   booster?: {
     id: string;
